@@ -1,0 +1,3703 @@
+{
+  "authors": [
+    {
+      "id": "A001",
+      "pen_name": "江屿",
+      "real_name": "测试作者01",
+      "email": "author01@example.test",
+      "identity_verified": true,
+      "created_at": "2025-10-02T09:00:00+08:00"
+    },
+    {
+      "id": "A002",
+      "pen_name": "南栀",
+      "real_name": "测试作者02",
+      "email": "author02@example.test",
+      "identity_verified": true,
+      "created_at": "2025-10-03T09:00:00+08:00"
+    },
+    {
+      "id": "A003",
+      "pen_name": "闻舟",
+      "real_name": "测试作者03",
+      "email": "author03@example.test",
+      "identity_verified": true,
+      "created_at": "2025-10-04T09:00:00+08:00"
+    },
+    {
+      "id": "A004",
+      "pen_name": "青禾",
+      "real_name": "测试作者04",
+      "email": "author04@example.test",
+      "identity_verified": true,
+      "created_at": "2025-10-05T09:00:00+08:00"
+    },
+    {
+      "id": "A005",
+      "pen_name": "白砚",
+      "real_name": "测试作者05",
+      "email": "author05@example.test",
+      "identity_verified": true,
+      "created_at": "2025-10-06T09:00:00+08:00"
+    },
+    {
+      "id": "A006",
+      "pen_name": "迟川",
+      "real_name": "测试作者06",
+      "email": "author06@example.test",
+      "identity_verified": true,
+      "created_at": "2025-10-07T09:00:00+08:00"
+    },
+    {
+      "id": "A007",
+      "pen_name": "星野",
+      "real_name": "测试作者07",
+      "email": "author07@example.test",
+      "identity_verified": false,
+      "created_at": "2025-10-08T09:00:00+08:00"
+    },
+    {
+      "id": "A008",
+      "pen_name": "木槿",
+      "real_name": "测试作者08",
+      "email": "author08@example.test",
+      "identity_verified": true,
+      "created_at": "2025-10-09T09:00:00+08:00"
+    },
+    {
+      "id": "A009",
+      "pen_name": "云岫",
+      "real_name": "测试作者09",
+      "email": "author09@example.test",
+      "identity_verified": true,
+      "created_at": "2025-10-10T09:00:00+08:00"
+    },
+    {
+      "id": "A010",
+      "pen_name": "沉璧",
+      "real_name": "测试作者10",
+      "email": "author10@example.test",
+      "identity_verified": true,
+      "created_at": "2025-10-11T09:00:00+08:00"
+    },
+    {
+      "id": "A011",
+      "pen_name": "秋池",
+      "real_name": "测试作者11",
+      "email": "author11@example.test",
+      "identity_verified": true,
+      "created_at": "2025-10-12T09:00:00+08:00"
+    },
+    {
+      "id": "A012",
+      "pen_name": "照野",
+      "real_name": "测试作者12",
+      "email": "author12@example.test",
+      "identity_verified": true,
+      "created_at": "2025-10-13T09:00:00+08:00"
+    },
+    {
+      "id": "A013",
+      "pen_name": "林渡",
+      "real_name": "测试作者13",
+      "email": "author13@example.test",
+      "identity_verified": true,
+      "created_at": "2025-10-14T09:00:00+08:00"
+    },
+    {
+      "id": "A014",
+      "pen_name": "苏木",
+      "real_name": "测试作者14",
+      "email": "author14@example.test",
+      "identity_verified": false,
+      "created_at": "2025-10-15T09:00:00+08:00"
+    },
+    {
+      "id": "A015",
+      "pen_name": "北辰",
+      "real_name": "测试作者15",
+      "email": "author15@example.test",
+      "identity_verified": true,
+      "created_at": "2025-10-16T09:00:00+08:00"
+    },
+    {
+      "id": "A016",
+      "pen_name": "言蹊",
+      "real_name": "测试作者16",
+      "email": "author16@example.test",
+      "identity_verified": true,
+      "created_at": "2025-10-17T09:00:00+08:00"
+    },
+    {
+      "id": "A017",
+      "pen_name": "清和",
+      "real_name": "测试作者17",
+      "email": "author17@example.test",
+      "identity_verified": true,
+      "created_at": "2025-10-18T09:00:00+08:00"
+    },
+    {
+      "id": "A018",
+      "pen_name": "砚秋",
+      "real_name": "测试作者18",
+      "email": "author18@example.test",
+      "identity_verified": true,
+      "created_at": "2025-10-19T09:00:00+08:00"
+    },
+    {
+      "id": "A019",
+      "pen_name": "微澜",
+      "real_name": "测试作者19",
+      "email": "author19@example.test",
+      "identity_verified": true,
+      "created_at": "2025-10-20T09:00:00+08:00"
+    },
+    {
+      "id": "A020",
+      "pen_name": "长风",
+      "real_name": "测试作者20",
+      "email": "author20@example.test",
+      "identity_verified": true,
+      "created_at": "2025-10-21T09:00:00+08:00"
+    },
+    {
+      "id": "A021",
+      "pen_name": "时雨",
+      "real_name": "测试作者21",
+      "email": "author21@example.test",
+      "identity_verified": false,
+      "created_at": "2025-10-22T09:00:00+08:00"
+    },
+    {
+      "id": "A022",
+      "pen_name": "望舒",
+      "real_name": "测试作者22",
+      "email": "author22@example.test",
+      "identity_verified": true,
+      "created_at": "2025-10-23T09:00:00+08:00"
+    },
+    {
+      "id": "A023",
+      "pen_name": "景明",
+      "real_name": "测试作者23",
+      "email": "author23@example.test",
+      "identity_verified": true,
+      "created_at": "2025-10-24T09:00:00+08:00"
+    },
+    {
+      "id": "A024",
+      "pen_name": "冬青",
+      "real_name": "测试作者24",
+      "email": "author24@example.test",
+      "identity_verified": true,
+      "created_at": "2025-10-25T09:00:00+08:00"
+    },
+    {
+      "id": "A025",
+      "pen_name": "未晞",
+      "real_name": "测试作者25",
+      "email": "author25@example.test",
+      "identity_verified": true,
+      "created_at": "2025-10-26T09:00:00+08:00"
+    }
+  ],
+  "novels": [
+    {
+      "id": "N001",
+      "title": "雾港来信",
+      "author_id": "A001",
+      "author_pen_name": "江屿",
+      "platform": "番茄小说",
+      "genre": "悬疑",
+      "synopsis": "失踪记者留下十二封延迟寄出的信，实习编辑循着邮戳追查一座港城的旧案。",
+      "word_count": 87351,
+      "current_status": "settlement_pending",
+      "submitted_at": "2026-01-08T09:00:00+08:00",
+      "contract_id": "C001",
+      "is_original": true,
+      "content_rating": "general"
+    },
+    {
+      "id": "N002",
+      "title": "星河修理铺",
+      "author_id": "A002",
+      "author_pen_name": "南栀",
+      "platform": "番茄小说",
+      "genre": "科幻",
+      "synopsis": "空间站底层修理师偶然获得一台能读取飞船记忆的旧终端。",
+      "word_count": 94702,
+      "current_status": "settlement_pending",
+      "submitted_at": "2026-01-11T09:00:00+08:00",
+      "contract_id": "C002",
+      "is_original": true,
+      "content_rating": "general"
+    },
+    {
+      "id": "N003",
+      "title": "长安无名客",
+      "author_id": "A003",
+      "author_pen_name": "闻舟",
+      "platform": "番茄小说",
+      "genre": "历史",
+      "synopsis": "安史之乱前夕，一名无籍少年被卷入长安城的密探网络。",
+      "word_count": 102053,
+      "current_status": "settled",
+      "submitted_at": "2026-01-14T09:00:00+08:00",
+      "contract_id": "C003",
+      "is_original": true,
+      "content_rating": "general"
+    },
+    {
+      "id": "N004",
+      "title": "春山照旧",
+      "author_id": "A004",
+      "author_pen_name": "青禾",
+      "platform": "番茄小说",
+      "genre": "古代言情",
+      "synopsis": "女医回到故乡重建药堂，却发现十年前的疫案另有隐情。",
+      "word_count": 109404,
+      "current_status": "settlement_pending",
+      "submitted_at": "2026-01-17T09:00:00+08:00",
+      "contract_id": "C004",
+      "is_original": true,
+      "content_rating": "general"
+    },
+    {
+      "id": "N005",
+      "title": "第七码头",
+      "author_id": "A005",
+      "author_pen_name": "白砚",
+      "platform": "番茄小说",
+      "genre": "都市",
+      "synopsis": "深夜代驾司机在第七码头接到一位不存在于订单中的乘客。",
+      "word_count": 116755,
+      "current_status": "settled",
+      "submitted_at": "2026-01-20T09:00:00+08:00",
+      "contract_id": "C005",
+      "is_original": true,
+      "content_rating": "general"
+    },
+    {
+      "id": "N006",
+      "title": "月落机械城",
+      "author_id": "A006",
+      "author_pen_name": "迟川",
+      "platform": "番茄小说",
+      "genre": "科幻",
+      "synopsis": "机械城停止自转后，少女工程师必须在永夜降临前修复城市核心。",
+      "word_count": 124106,
+      "current_status": "settled",
+      "submitted_at": "2026-01-23T09:00:00+08:00",
+      "contract_id": "C006",
+      "is_original": true,
+      "content_rating": "teen"
+    },
+    {
+      "id": "N007",
+      "title": "剑鸣之后",
+      "author_id": "A007",
+      "author_pen_name": "星野",
+      "platform": "番茄小说",
+      "genre": "仙侠",
+      "synopsis": "铸剑学徒能听见兵器遗愿，却唯独听不懂师父留下的断剑。",
+      "word_count": 131457,
+      "current_status": "settled",
+      "submitted_at": "2026-01-26T09:00:00+08:00",
+      "contract_id": "C007",
+      "is_original": true,
+      "content_rating": "general"
+    },
+    {
+      "id": "N008",
+      "title": "我在妖市开茶馆",
+      "author_id": "A008",
+      "author_pen_name": "木槿",
+      "platform": "番茄小说",
+      "genre": "奇幻",
+      "synopsis": "人类茶师在妖怪集市经营茶馆，用一杯茶交换客人的秘密。",
+      "word_count": 138808,
+      "current_status": "settled",
+      "submitted_at": "2026-01-29T09:00:00+08:00",
+      "contract_id": "C008",
+      "is_original": true,
+      "content_rating": "general"
+    },
+    {
+      "id": "N009",
+      "title": "纸上迷城",
+      "author_id": "A009",
+      "author_pen_name": "云岫",
+      "platform": "番茄小说",
+      "genre": "悬疑",
+      "synopsis": "地图绘制员发现自己画出的虚构街道正在现实城市中出现。",
+      "word_count": 146159,
+      "current_status": "settled",
+      "submitted_at": "2026-02-01T09:00:00+08:00",
+      "contract_id": "C009",
+      "is_original": true,
+      "content_rating": "general"
+    },
+    {
+      "id": "N010",
+      "title": "夏日慢半拍",
+      "author_id": "A010",
+      "author_pen_name": "沉璧",
+      "platform": "番茄小说",
+      "genre": "青春",
+      "synopsis": "转校生加入濒临解散的广播站，与伙伴完成最后一次夏日直播。",
+      "word_count": 153510,
+      "current_status": "settled",
+      "submitted_at": "2026-02-04T09:00:00+08:00",
+      "contract_id": "C010",
+      "is_original": true,
+      "content_rating": "general"
+    },
+    {
+      "id": "N011",
+      "title": "北境拾荒者",
+      "author_id": "A011",
+      "author_pen_name": "秋池",
+      "platform": "番茄小说",
+      "genre": "科幻",
+      "synopsis": "冰封大陆的拾荒队在废墟中发现一名保存百年的休眠者。",
+      "word_count": 160861,
+      "current_status": "settlement_pending",
+      "submitted_at": "2026-02-07T09:00:00+08:00",
+      "contract_id": "C011",
+      "is_original": true,
+      "content_rating": "general"
+    },
+    {
+      "id": "N012",
+      "title": "山神不下班",
+      "author_id": "A012",
+      "author_pen_name": "照野",
+      "platform": "番茄小说",
+      "genre": "奇幻",
+      "synopsis": "新任山神白天处理游客投诉，夜里维护逐渐失灵的山川结界。",
+      "word_count": 168212,
+      "current_status": "settlement_pending",
+      "submitted_at": "2026-02-10T09:00:00+08:00",
+      "contract_id": "C012",
+      "is_original": true,
+      "content_rating": "teen"
+    },
+    {
+      "id": "N013",
+      "title": "锦书难托",
+      "author_id": "A013",
+      "author_pen_name": "林渡",
+      "platform": "番茄小说",
+      "genre": "古代言情",
+      "synopsis": "替人写信的落魄才女收到一封寄给未来自己的回信。",
+      "word_count": 175563,
+      "current_status": "settled",
+      "submitted_at": "2026-02-13T09:00:00+08:00",
+      "contract_id": "C013",
+      "is_original": true,
+      "content_rating": "general"
+    },
+    {
+      "id": "N014",
+      "title": "凌晨四点的便利店",
+      "author_id": "A014",
+      "author_pen_name": "苏木",
+      "platform": "番茄小说",
+      "genre": "都市",
+      "synopsis": "便利店夜班店员记录形形色色的客人，并拼出一宗失踪案真相。",
+      "word_count": 182914,
+      "current_status": "settlement_pending",
+      "submitted_at": "2026-02-16T09:00:00+08:00",
+      "contract_id": "C014",
+      "is_original": true,
+      "content_rating": "general"
+    },
+    {
+      "id": "N015",
+      "title": "无尽副本管理员",
+      "author_id": "A015",
+      "author_pen_name": "北辰",
+      "platform": "番茄小说",
+      "genre": "游戏",
+      "synopsis": "副本管理员发现玩家死亡数据被篡改，开始追踪系统内部的隐藏账号。",
+      "word_count": 190265,
+      "current_status": "settled",
+      "submitted_at": "2026-02-19T09:00:00+08:00",
+      "contract_id": "C015",
+      "is_original": true,
+      "content_rating": "general"
+    },
+    {
+      "id": "N016",
+      "title": "风从旧站来",
+      "author_id": "A016",
+      "author_pen_name": "言蹊",
+      "platform": "番茄小说",
+      "genre": "现实",
+      "synopsis": "废弃火车站重启前，三代铁路职工共同整理尘封的失物仓库。",
+      "word_count": 197616,
+      "current_status": "settled",
+      "submitted_at": "2026-02-22T09:00:00+08:00",
+      "contract_id": "C016",
+      "is_original": true,
+      "content_rating": "general"
+    },
+    {
+      "id": "N017",
+      "title": "烛影录",
+      "author_id": "A017",
+      "author_pen_name": "清和",
+      "platform": "番茄小说",
+      "genre": "悬疑",
+      "synopsis": "古籍修复师从残缺县志中发现一组跨越百年的相同命案。",
+      "word_count": 204967,
+      "current_status": "settled",
+      "submitted_at": "2026-02-25T09:00:00+08:00",
+      "contract_id": "C017",
+      "is_original": true,
+      "content_rating": "general"
+    },
+    {
+      "id": "N018",
+      "title": "银河尽头有家书店",
+      "author_id": "A018",
+      "author_pen_name": "砚秋",
+      "platform": "番茄小说",
+      "genre": "科幻",
+      "synopsis": "漂流书店收集文明最后一本书，也保存着店主失去的故乡坐标。",
+      "word_count": 212318,
+      "current_status": "settled",
+      "submitted_at": "2026-02-28T09:00:00+08:00",
+      "contract_id": "C018",
+      "is_original": true,
+      "content_rating": "teen"
+    },
+    {
+      "id": "N019",
+      "title": "青云小师叔",
+      "author_id": "A019",
+      "author_pen_name": "微澜",
+      "platform": "番茄小说",
+      "genre": "仙侠",
+      "synopsis": "门派最年轻的师叔只想种田，却被迫带领弟子参加百宗大比。",
+      "word_count": 219669,
+      "current_status": "settled",
+      "submitted_at": "2026-03-03T09:00:00+08:00",
+      "contract_id": "C019",
+      "is_original": true,
+      "content_rating": "general"
+    },
+    {
+      "id": "N020",
+      "title": "南城旧梦",
+      "author_id": "A020",
+      "author_pen_name": "长风",
+      "platform": "番茄小说",
+      "genre": "民国",
+      "synopsis": "照相馆女学徒从未冲洗的底片中寻找失踪多年的父亲。",
+      "word_count": 227020,
+      "current_status": "settled",
+      "submitted_at": "2026-03-06T09:00:00+08:00",
+      "contract_id": "C020",
+      "is_original": true,
+      "content_rating": "general"
+    },
+    {
+      "id": "N021",
+      "title": "深海回声",
+      "author_id": "A021",
+      "author_pen_name": "时雨",
+      "platform": "番茄小说",
+      "genre": "科幻",
+      "synopsis": "深海声呐员收到来自未来潜艇的求救信号。",
+      "word_count": 234371,
+      "current_status": "settlement_pending",
+      "submitted_at": "2026-03-09T09:00:00+08:00",
+      "contract_id": "C021",
+      "is_original": true,
+      "content_rating": "general"
+    },
+    {
+      "id": "N022",
+      "title": "桃花渡口",
+      "author_id": "A022",
+      "author_pen_name": "望舒",
+      "platform": "番茄小说",
+      "genre": "古代言情",
+      "synopsis": "渡口掌柜替亡者送最后一封信，直到收件人写着她自己的名字。",
+      "word_count": 241722,
+      "current_status": "settlement_pending",
+      "submitted_at": "2026-03-12T09:00:00+08:00",
+      "contract_id": "C022",
+      "is_original": true,
+      "content_rating": "general"
+    },
+    {
+      "id": "N023",
+      "title": "算法之外",
+      "author_id": "A023",
+      "author_pen_name": "景明",
+      "platform": "番茄小说",
+      "genre": "都市",
+      "synopsis": "推荐算法工程师发现系统在预测尚未发生的社会事件。",
+      "word_count": 249073,
+      "current_status": "settled",
+      "submitted_at": "2026-03-15T09:00:00+08:00",
+      "contract_id": "C023",
+      "is_original": true,
+      "content_rating": "general"
+    },
+    {
+      "id": "N024",
+      "title": "雪线之上",
+      "author_id": "A024",
+      "author_pen_name": "冬青",
+      "platform": "番茄小说",
+      "genre": "现实",
+      "synopsis": "年轻气象员驻守高原站，在极端暴雪中完成一次跨站救援。",
+      "word_count": 256424,
+      "current_status": "settlement_pending",
+      "submitted_at": "2026-03-18T09:00:00+08:00",
+      "contract_id": "C024",
+      "is_original": true,
+      "content_rating": "teen"
+    },
+    {
+      "id": "N025",
+      "title": "九州邮差",
+      "author_id": "A025",
+      "author_pen_name": "未晞",
+      "platform": "番茄小说",
+      "genre": "玄幻",
+      "synopsis": "少年邮差骑着不会飞的纸鹤，为分裂九州递送停战国书。",
+      "word_count": 263775,
+      "current_status": "settled",
+      "submitted_at": "2026-03-21T09:00:00+08:00",
+      "contract_id": "C025",
+      "is_original": true,
+      "content_rating": "general"
+    },
+    {
+      "id": "N026",
+      "title": "梦境清洁公司",
+      "author_id": "A001",
+      "author_pen_name": "江屿",
+      "platform": "番茄小说",
+      "genre": "奇幻",
+      "synopsis": "清洁员进入客户梦境处理噩梦垃圾，却发现自己的记忆被当作废品出售。",
+      "word_count": 271126,
+      "current_status": "settled",
+      "submitted_at": "2026-03-24T09:00:00+08:00",
+      "contract_id": "C026",
+      "is_original": true,
+      "content_rating": "general"
+    },
+    {
+      "id": "N027",
+      "title": "沉默的合唱团",
+      "author_id": "A002",
+      "author_pen_name": "南栀",
+      "platform": "番茄小说",
+      "genre": "悬疑",
+      "synopsis": "失声的音乐老师调查学生集体缄默事件，线索藏在一首未完成的合唱曲中。",
+      "word_count": 278477,
+      "current_status": "settled",
+      "submitted_at": "2026-03-27T09:00:00+08:00",
+      "contract_id": "C027",
+      "is_original": true,
+      "content_rating": "general"
+    },
+    {
+      "id": "N028",
+      "title": "归零协议",
+      "author_id": "A003",
+      "author_pen_name": "闻舟",
+      "platform": "番茄小说",
+      "genre": "科幻",
+      "synopsis": "记忆备份合法化后，一名律师负责审理两个自己之间的身份纠纷。",
+      "word_count": 285828,
+      "current_status": "settled",
+      "submitted_at": "2026-03-30T09:00:00+08:00",
+      "contract_id": "C028",
+      "is_original": true,
+      "content_rating": "general"
+    },
+    {
+      "id": "N029",
+      "title": "小城捕风记",
+      "author_id": "A004",
+      "author_pen_name": "青禾",
+      "platform": "番茄小说",
+      "genre": "现实",
+      "synopsis": "返乡青年记录即将消失的手艺，也重新理解与父亲的隔阂。",
+      "word_count": 293179,
+      "current_status": "settled",
+      "submitted_at": "2026-04-02T09:00:00+08:00",
+      "contract_id": "C029",
+      "is_original": true,
+      "content_rating": "general"
+    },
+    {
+      "id": "N030",
+      "title": "浮灯照夜",
+      "author_id": "A005",
+      "author_pen_name": "白砚",
+      "platform": "番茄小说",
+      "genre": "古代言情",
+      "synopsis": "制灯师女儿凭借灯影密码协助大理寺侦破连环失窃案。",
+      "word_count": 300530,
+      "current_status": "settled",
+      "submitted_at": "2026-04-05T09:00:00+08:00",
+      "contract_id": "C030",
+      "is_original": true,
+      "content_rating": "teen"
+    },
+    {
+      "id": "N031",
+      "title": "万象客栈",
+      "author_id": "A006",
+      "author_pen_name": "迟川",
+      "platform": "番茄小说",
+      "genre": "玄幻",
+      "synopsis": "客栈每晚通往不同世界，掌柜必须在天亮前送所有客人回家。",
+      "word_count": 307881,
+      "current_status": "settlement_pending",
+      "submitted_at": "2026-04-08T09:00:00+08:00",
+      "contract_id": "C031",
+      "is_original": true,
+      "content_rating": "general"
+    },
+    {
+      "id": "N032",
+      "title": "零号观众",
+      "author_id": "A007",
+      "author_pen_name": "星野",
+      "platform": "番茄小说",
+      "genre": "悬疑",
+      "synopsis": "剧场每场演出都有一个查无座位记录的观众，演员接连收到未来剧评。",
+      "word_count": 315232,
+      "current_status": "settlement_pending",
+      "submitted_at": "2026-04-11T09:00:00+08:00",
+      "contract_id": "C032",
+      "is_original": true,
+      "content_rating": "general"
+    },
+    {
+      "id": "N033",
+      "title": "云端牧场",
+      "author_id": "A008",
+      "author_pen_name": "木槿",
+      "platform": "番茄小说",
+      "genre": "科幻",
+      "synopsis": "气候工程师在云层牧场培育人工降雨，却遭遇会自行迁徙的云群。",
+      "word_count": 322583,
+      "current_status": "settled",
+      "submitted_at": "2026-04-14T09:00:00+08:00",
+      "contract_id": "C033",
+      "is_original": true,
+      "content_rating": "general"
+    },
+    {
+      "id": "N034",
+      "title": "折柳长亭",
+      "author_id": "A009",
+      "author_pen_name": "云岫",
+      "platform": "番茄小说",
+      "genre": "历史",
+      "synopsis": "驿站小吏通过来往文书发现边军粮草账目中的巨大漏洞。",
+      "word_count": 329934,
+      "current_status": "settlement_pending",
+      "submitted_at": "2026-04-17T09:00:00+08:00",
+      "contract_id": "C034",
+      "is_original": true,
+      "content_rating": "general"
+    },
+    {
+      "id": "N035",
+      "title": "反派今天退休了吗",
+      "author_id": "A010",
+      "author_pen_name": "沉璧",
+      "platform": "番茄小说",
+      "genre": "轻小说",
+      "synopsis": "故事反派觉醒后申请退休，却发现世界运行离不开他的失败任务。",
+      "word_count": 337285,
+      "current_status": "settled",
+      "submitted_at": "2026-04-20T09:00:00+08:00",
+      "contract_id": "C035",
+      "is_original": true,
+      "content_rating": "general"
+    },
+    {
+      "id": "N036",
+      "title": "人间烟火簿",
+      "author_id": "A011",
+      "author_pen_name": "秋池",
+      "platform": "番茄小说",
+      "genre": "现实",
+      "synopsis": "社区网格员用一本走访簿串起老街居民的生活与变迁。",
+      "word_count": 344636,
+      "current_status": "settled",
+      "submitted_at": "2026-04-23T09:00:00+08:00",
+      "contract_id": "C036",
+      "is_original": true,
+      "content_rating": "teen"
+    },
+    {
+      "id": "N037",
+      "title": "镜中长河",
+      "author_id": "A012",
+      "author_pen_name": "照野",
+      "platform": "番茄小说",
+      "genre": "玄幻",
+      "synopsis": "史官能从铜镜看见被删改的历史，因此成为王朝追捕的最后证人。",
+      "word_count": 351987,
+      "current_status": "published",
+      "submitted_at": "2026-04-26T09:00:00+08:00",
+      "contract_id": "C037",
+      "is_original": true,
+      "content_rating": "general"
+    },
+    {
+      "id": "N038",
+      "title": "晚风知道答案",
+      "author_id": "A013",
+      "author_pen_name": "林渡",
+      "platform": "番茄小说",
+      "genre": "现代言情",
+      "synopsis": "气象主播与海上救援队员因一场台风预警重新相遇。",
+      "word_count": 359338,
+      "current_status": "published",
+      "submitted_at": "2026-04-29T09:00:00+08:00",
+      "contract_id": "C038",
+      "is_original": true,
+      "content_rating": "general"
+    },
+    {
+      "id": "N039",
+      "title": "失物招领师",
+      "author_id": "A014",
+      "author_pen_name": "苏木",
+      "platform": "番茄小说",
+      "genre": "奇幻",
+      "synopsis": "青年能看见失物的情绪，受托寻找一件从所有记忆中消失的物品。",
+      "word_count": 366689,
+      "current_status": "published",
+      "submitted_at": "2026-05-02T09:00:00+08:00",
+      "contract_id": "C039",
+      "is_original": true,
+      "content_rating": "general"
+    },
+    {
+      "id": "N040",
+      "title": "荒原信号塔",
+      "author_id": "A015",
+      "author_pen_name": "北辰",
+      "platform": "番茄小说",
+      "genre": "科幻",
+      "synopsis": "末日信号员坚守最后一座塔，某天收到自称来自旧世界的广播。",
+      "word_count": 374040,
+      "current_status": "published",
+      "submitted_at": "2026-05-05T09:00:00+08:00",
+      "contract_id": "C040",
+      "is_original": true,
+      "content_rating": "general"
+    },
+    {
+      "id": "N041",
+      "title": "东街食事",
+      "author_id": "A016",
+      "author_pen_name": "言蹊",
+      "platform": "番茄小说",
+      "genre": "现实",
+      "synopsis": "小餐馆老板用十道家常菜记录街区十年的聚散。",
+      "word_count": 381391,
+      "current_status": "published",
+      "submitted_at": "2026-05-08T09:00:00+08:00",
+      "contract_id": "C041",
+      "is_original": true,
+      "content_rating": "general"
+    },
+    {
+      "id": "N042",
+      "title": "仙门财务司",
+      "author_id": "A017",
+      "author_pen_name": "清和",
+      "platform": "番茄小说",
+      "genre": "仙侠",
+      "synopsis": "凡人账房进入仙门清查灵石账目，意外揭开延续百年的财务黑洞。",
+      "word_count": 388742,
+      "current_status": "published",
+      "submitted_at": "2026-05-11T09:00:00+08:00",
+      "contract_id": "C042",
+      "is_original": true,
+      "content_rating": "teen"
+    },
+    {
+      "id": "N043",
+      "title": "雨夜末班车",
+      "author_id": "A018",
+      "author_pen_name": "砚秋",
+      "platform": "番茄小说",
+      "genre": "悬疑",
+      "synopsis": "公交司机发现末班车每逢暴雨都会多出一个不存在的站点。",
+      "word_count": 396093,
+      "current_status": "editor_review",
+      "submitted_at": "2026-05-14T09:00:00+08:00",
+      "contract_id": "",
+      "is_original": true,
+      "content_rating": "general"
+    },
+    {
+      "id": "N044",
+      "title": "玫瑰与旧唱片",
+      "author_id": "A019",
+      "author_pen_name": "微澜",
+      "platform": "番茄小说",
+      "genre": "现代言情",
+      "synopsis": "唱片修复师与独立音乐人合作寻找一段从未发行的母带。",
+      "word_count": 403444,
+      "current_status": "editor_review",
+      "submitted_at": "2026-05-17T09:00:00+08:00",
+      "contract_id": "",
+      "is_original": true,
+      "content_rating": "general"
+    },
+    {
+      "id": "N045",
+      "title": "天穹之外",
+      "author_id": "A020",
+      "author_pen_name": "长风",
+      "platform": "番茄小说",
+      "genre": "科幻",
+      "synopsis": "首批火星少年发现殖民穹顶外存在前人留下的人工生态。",
+      "word_count": 410795,
+      "current_status": "editor_review",
+      "submitted_at": "2026-05-20T09:00:00+08:00",
+      "contract_id": "",
+      "is_original": true,
+      "content_rating": "general"
+    },
+    {
+      "id": "N046",
+      "title": "鹤归山",
+      "author_id": "A021",
+      "author_pen_name": "时雨",
+      "platform": "番茄小说",
+      "genre": "武侠",
+      "synopsis": "退隐镖师为归还一件旧物，再次踏入已经改换规则的江湖。",
+      "word_count": 418146,
+      "current_status": "editor_review",
+      "submitted_at": "2026-05-23T09:00:00+08:00",
+      "contract_id": "",
+      "is_original": true,
+      "content_rating": "general"
+    },
+    {
+      "id": "N047",
+      "title": "不存在的编辑部",
+      "author_id": "A022",
+      "author_pen_name": "望舒",
+      "platform": "番茄小说",
+      "genre": "都市",
+      "synopsis": "新人编辑收到神秘部门的调令，负责修改即将成为现实的故事。",
+      "word_count": 425497,
+      "current_status": "ai_review",
+      "submitted_at": "2026-05-26T09:00:00+08:00",
+      "contract_id": "",
+      "is_original": true,
+      "content_rating": "general"
+    },
+    {
+      "id": "N048",
+      "title": "潮汐日历",
+      "author_id": "A023",
+      "author_pen_name": "景明",
+      "platform": "番茄小说",
+      "genre": "青春",
+      "synopsis": "海岛中学生记录潮汐变化，策划拯救即将关闭的学校天文台。",
+      "word_count": 432848,
+      "current_status": "ai_review",
+      "submitted_at": "2026-05-29T09:00:00+08:00",
+      "contract_id": "",
+      "is_original": true,
+      "content_rating": "teen"
+    },
+    {
+      "id": "N049",
+      "title": "最后一名守卷人",
+      "author_id": "A024",
+      "author_pen_name": "冬青",
+      "platform": "番茄小说",
+      "genre": "玄幻",
+      "synopsis": "藏书楼守卷人必须在文字消失前找回被抹去的第一卷史书。",
+      "word_count": 440199,
+      "current_status": "rejected",
+      "submitted_at": "2026-06-01T09:00:00+08:00",
+      "contract_id": "",
+      "is_original": true,
+      "content_rating": "general"
+    },
+    {
+      "id": "N050",
+      "title": "城市睡眠计划",
+      "author_id": "A025",
+      "author_pen_name": "未晞",
+      "platform": "番茄小说",
+      "genre": "科幻",
+      "synopsis": "全城参与共享梦境实验后，心理医生发现所有人梦见了同一扇门。",
+      "word_count": 447550,
+      "current_status": "submitted",
+      "submitted_at": "2026-06-04T09:00:00+08:00",
+      "contract_id": "",
+      "is_original": true,
+      "content_rating": "general"
+    }
+  ],
+  "workflow_events": [
+    {
+      "id": "E0001",
+      "novel_id": "N001",
+      "state": "submitted",
+      "occurred_at": "2026-01-08T09:00:00+08:00",
+      "operator": "author"
+    },
+    {
+      "id": "E0002",
+      "novel_id": "N001",
+      "state": "ai_review_passed",
+      "occurred_at": "2026-01-08T09:06:00+08:00",
+      "operator": "ai_review"
+    },
+    {
+      "id": "E0003",
+      "novel_id": "N001",
+      "state": "editor_review_passed",
+      "occurred_at": "2026-01-10T09:00:00+08:00",
+      "operator": "editor"
+    },
+    {
+      "id": "E0004",
+      "novel_id": "N001",
+      "state": "contract_active",
+      "occurred_at": "2026-01-13T09:00:00+08:00",
+      "operator": "copyright_ops"
+    },
+    {
+      "id": "E0005",
+      "novel_id": "N001",
+      "state": "published",
+      "occurred_at": "2026-01-18T09:00:00+08:00",
+      "operator": "content_ops"
+    },
+    {
+      "id": "E0006",
+      "novel_id": "N002",
+      "state": "submitted",
+      "occurred_at": "2026-01-11T09:00:00+08:00",
+      "operator": "author"
+    },
+    {
+      "id": "E0007",
+      "novel_id": "N002",
+      "state": "ai_review_passed",
+      "occurred_at": "2026-01-11T09:07:00+08:00",
+      "operator": "ai_review"
+    },
+    {
+      "id": "E0008",
+      "novel_id": "N002",
+      "state": "editor_review_passed",
+      "occurred_at": "2026-01-13T09:00:00+08:00",
+      "operator": "editor"
+    },
+    {
+      "id": "E0009",
+      "novel_id": "N002",
+      "state": "contract_active",
+      "occurred_at": "2026-01-16T09:00:00+08:00",
+      "operator": "copyright_ops"
+    },
+    {
+      "id": "E0010",
+      "novel_id": "N002",
+      "state": "published",
+      "occurred_at": "2026-01-21T09:00:00+08:00",
+      "operator": "content_ops"
+    },
+    {
+      "id": "E0011",
+      "novel_id": "N003",
+      "state": "submitted",
+      "occurred_at": "2026-01-14T09:00:00+08:00",
+      "operator": "author"
+    },
+    {
+      "id": "E0012",
+      "novel_id": "N003",
+      "state": "ai_review_passed",
+      "occurred_at": "2026-01-14T09:08:00+08:00",
+      "operator": "ai_review"
+    },
+    {
+      "id": "E0013",
+      "novel_id": "N003",
+      "state": "editor_review_passed",
+      "occurred_at": "2026-01-16T09:00:00+08:00",
+      "operator": "editor"
+    },
+    {
+      "id": "E0014",
+      "novel_id": "N003",
+      "state": "contract_active",
+      "occurred_at": "2026-01-19T09:00:00+08:00",
+      "operator": "copyright_ops"
+    },
+    {
+      "id": "E0015",
+      "novel_id": "N003",
+      "state": "published",
+      "occurred_at": "2026-01-24T09:00:00+08:00",
+      "operator": "content_ops"
+    },
+    {
+      "id": "E0016",
+      "novel_id": "N004",
+      "state": "submitted",
+      "occurred_at": "2026-01-17T09:00:00+08:00",
+      "operator": "author"
+    },
+    {
+      "id": "E0017",
+      "novel_id": "N004",
+      "state": "ai_review_passed",
+      "occurred_at": "2026-01-17T09:09:00+08:00",
+      "operator": "ai_review"
+    },
+    {
+      "id": "E0018",
+      "novel_id": "N004",
+      "state": "editor_review_passed",
+      "occurred_at": "2026-01-19T09:00:00+08:00",
+      "operator": "editor"
+    },
+    {
+      "id": "E0019",
+      "novel_id": "N004",
+      "state": "contract_active",
+      "occurred_at": "2026-01-22T09:00:00+08:00",
+      "operator": "copyright_ops"
+    },
+    {
+      "id": "E0020",
+      "novel_id": "N004",
+      "state": "published",
+      "occurred_at": "2026-01-27T09:00:00+08:00",
+      "operator": "content_ops"
+    },
+    {
+      "id": "E0021",
+      "novel_id": "N005",
+      "state": "submitted",
+      "occurred_at": "2026-01-20T09:00:00+08:00",
+      "operator": "author"
+    },
+    {
+      "id": "E0022",
+      "novel_id": "N005",
+      "state": "ai_review_passed",
+      "occurred_at": "2026-01-20T09:10:00+08:00",
+      "operator": "ai_review"
+    },
+    {
+      "id": "E0023",
+      "novel_id": "N005",
+      "state": "editor_review_passed",
+      "occurred_at": "2026-01-22T09:00:00+08:00",
+      "operator": "editor"
+    },
+    {
+      "id": "E0024",
+      "novel_id": "N005",
+      "state": "contract_active",
+      "occurred_at": "2026-01-25T09:00:00+08:00",
+      "operator": "copyright_ops"
+    },
+    {
+      "id": "E0025",
+      "novel_id": "N005",
+      "state": "published",
+      "occurred_at": "2026-01-30T09:00:00+08:00",
+      "operator": "content_ops"
+    },
+    {
+      "id": "E0026",
+      "novel_id": "N005",
+      "state": "settled",
+      "occurred_at": "2026-10-10T10:00:00+08:00",
+      "operator": "settlement_system"
+    },
+    {
+      "id": "E0027",
+      "novel_id": "N006",
+      "state": "submitted",
+      "occurred_at": "2026-01-23T09:00:00+08:00",
+      "operator": "author"
+    },
+    {
+      "id": "E0028",
+      "novel_id": "N006",
+      "state": "ai_review_passed",
+      "occurred_at": "2026-01-23T09:11:00+08:00",
+      "operator": "ai_review"
+    },
+    {
+      "id": "E0029",
+      "novel_id": "N006",
+      "state": "editor_review_passed",
+      "occurred_at": "2026-01-25T09:00:00+08:00",
+      "operator": "editor"
+    },
+    {
+      "id": "E0030",
+      "novel_id": "N006",
+      "state": "contract_active",
+      "occurred_at": "2026-01-28T09:00:00+08:00",
+      "operator": "copyright_ops"
+    },
+    {
+      "id": "E0031",
+      "novel_id": "N006",
+      "state": "published",
+      "occurred_at": "2026-02-02T09:00:00+08:00",
+      "operator": "content_ops"
+    },
+    {
+      "id": "E0032",
+      "novel_id": "N006",
+      "state": "settled",
+      "occurred_at": "2026-10-10T10:00:00+08:00",
+      "operator": "settlement_system"
+    },
+    {
+      "id": "E0033",
+      "novel_id": "N007",
+      "state": "submitted",
+      "occurred_at": "2026-01-26T09:00:00+08:00",
+      "operator": "author"
+    },
+    {
+      "id": "E0034",
+      "novel_id": "N007",
+      "state": "ai_review_passed",
+      "occurred_at": "2026-01-26T09:12:00+08:00",
+      "operator": "ai_review"
+    },
+    {
+      "id": "E0035",
+      "novel_id": "N007",
+      "state": "editor_review_passed",
+      "occurred_at": "2026-01-28T09:00:00+08:00",
+      "operator": "editor"
+    },
+    {
+      "id": "E0036",
+      "novel_id": "N007",
+      "state": "contract_active",
+      "occurred_at": "2026-01-31T09:00:00+08:00",
+      "operator": "copyright_ops"
+    },
+    {
+      "id": "E0037",
+      "novel_id": "N007",
+      "state": "published",
+      "occurred_at": "2026-02-05T09:00:00+08:00",
+      "operator": "content_ops"
+    },
+    {
+      "id": "E0038",
+      "novel_id": "N007",
+      "state": "settled",
+      "occurred_at": "2026-10-10T10:00:00+08:00",
+      "operator": "settlement_system"
+    },
+    {
+      "id": "E0039",
+      "novel_id": "N008",
+      "state": "submitted",
+      "occurred_at": "2026-01-29T09:00:00+08:00",
+      "operator": "author"
+    },
+    {
+      "id": "E0040",
+      "novel_id": "N008",
+      "state": "ai_review_passed",
+      "occurred_at": "2026-01-29T09:13:00+08:00",
+      "operator": "ai_review"
+    },
+    {
+      "id": "E0041",
+      "novel_id": "N008",
+      "state": "editor_review_passed",
+      "occurred_at": "2026-01-31T09:00:00+08:00",
+      "operator": "editor"
+    },
+    {
+      "id": "E0042",
+      "novel_id": "N008",
+      "state": "contract_active",
+      "occurred_at": "2026-02-03T09:00:00+08:00",
+      "operator": "copyright_ops"
+    },
+    {
+      "id": "E0043",
+      "novel_id": "N008",
+      "state": "published",
+      "occurred_at": "2026-02-08T09:00:00+08:00",
+      "operator": "content_ops"
+    },
+    {
+      "id": "E0044",
+      "novel_id": "N008",
+      "state": "settled",
+      "occurred_at": "2026-10-10T10:00:00+08:00",
+      "operator": "settlement_system"
+    },
+    {
+      "id": "E0045",
+      "novel_id": "N009",
+      "state": "submitted",
+      "occurred_at": "2026-02-01T09:00:00+08:00",
+      "operator": "author"
+    },
+    {
+      "id": "E0046",
+      "novel_id": "N009",
+      "state": "ai_review_passed",
+      "occurred_at": "2026-02-01T09:14:00+08:00",
+      "operator": "ai_review"
+    },
+    {
+      "id": "E0047",
+      "novel_id": "N009",
+      "state": "editor_review_passed",
+      "occurred_at": "2026-02-03T09:00:00+08:00",
+      "operator": "editor"
+    },
+    {
+      "id": "E0048",
+      "novel_id": "N009",
+      "state": "contract_active",
+      "occurred_at": "2026-02-06T09:00:00+08:00",
+      "operator": "copyright_ops"
+    },
+    {
+      "id": "E0049",
+      "novel_id": "N009",
+      "state": "published",
+      "occurred_at": "2026-02-11T09:00:00+08:00",
+      "operator": "content_ops"
+    },
+    {
+      "id": "E0050",
+      "novel_id": "N009",
+      "state": "settled",
+      "occurred_at": "2026-10-10T10:00:00+08:00",
+      "operator": "settlement_system"
+    },
+    {
+      "id": "E0051",
+      "novel_id": "N010",
+      "state": "submitted",
+      "occurred_at": "2026-02-04T09:00:00+08:00",
+      "operator": "author"
+    },
+    {
+      "id": "E0052",
+      "novel_id": "N010",
+      "state": "ai_review_passed",
+      "occurred_at": "2026-02-04T09:15:00+08:00",
+      "operator": "ai_review"
+    },
+    {
+      "id": "E0053",
+      "novel_id": "N010",
+      "state": "editor_review_passed",
+      "occurred_at": "2026-02-06T09:00:00+08:00",
+      "operator": "editor"
+    },
+    {
+      "id": "E0054",
+      "novel_id": "N010",
+      "state": "contract_active",
+      "occurred_at": "2026-02-09T09:00:00+08:00",
+      "operator": "copyright_ops"
+    },
+    {
+      "id": "E0055",
+      "novel_id": "N010",
+      "state": "published",
+      "occurred_at": "2026-02-14T09:00:00+08:00",
+      "operator": "content_ops"
+    },
+    {
+      "id": "E0056",
+      "novel_id": "N010",
+      "state": "settled",
+      "occurred_at": "2026-10-10T10:00:00+08:00",
+      "operator": "settlement_system"
+    },
+    {
+      "id": "E0057",
+      "novel_id": "N011",
+      "state": "submitted",
+      "occurred_at": "2026-02-07T09:00:00+08:00",
+      "operator": "author"
+    },
+    {
+      "id": "E0058",
+      "novel_id": "N011",
+      "state": "ai_review_passed",
+      "occurred_at": "2026-02-07T09:16:00+08:00",
+      "operator": "ai_review"
+    },
+    {
+      "id": "E0059",
+      "novel_id": "N011",
+      "state": "editor_review_passed",
+      "occurred_at": "2026-02-09T09:00:00+08:00",
+      "operator": "editor"
+    },
+    {
+      "id": "E0060",
+      "novel_id": "N011",
+      "state": "contract_active",
+      "occurred_at": "2026-02-12T09:00:00+08:00",
+      "operator": "copyright_ops"
+    },
+    {
+      "id": "E0061",
+      "novel_id": "N011",
+      "state": "published",
+      "occurred_at": "2026-02-17T09:00:00+08:00",
+      "operator": "content_ops"
+    },
+    {
+      "id": "E0062",
+      "novel_id": "N012",
+      "state": "submitted",
+      "occurred_at": "2026-02-10T09:00:00+08:00",
+      "operator": "author"
+    },
+    {
+      "id": "E0063",
+      "novel_id": "N012",
+      "state": "ai_review_passed",
+      "occurred_at": "2026-02-10T09:17:00+08:00",
+      "operator": "ai_review"
+    },
+    {
+      "id": "E0064",
+      "novel_id": "N012",
+      "state": "editor_review_passed",
+      "occurred_at": "2026-02-12T09:00:00+08:00",
+      "operator": "editor"
+    },
+    {
+      "id": "E0065",
+      "novel_id": "N012",
+      "state": "contract_active",
+      "occurred_at": "2026-02-15T09:00:00+08:00",
+      "operator": "copyright_ops"
+    },
+    {
+      "id": "E0066",
+      "novel_id": "N012",
+      "state": "published",
+      "occurred_at": "2026-02-20T09:00:00+08:00",
+      "operator": "content_ops"
+    },
+    {
+      "id": "E0067",
+      "novel_id": "N013",
+      "state": "submitted",
+      "occurred_at": "2026-02-13T09:00:00+08:00",
+      "operator": "author"
+    },
+    {
+      "id": "E0068",
+      "novel_id": "N013",
+      "state": "ai_review_passed",
+      "occurred_at": "2026-02-13T09:18:00+08:00",
+      "operator": "ai_review"
+    },
+    {
+      "id": "E0069",
+      "novel_id": "N013",
+      "state": "editor_review_passed",
+      "occurred_at": "2026-02-15T09:00:00+08:00",
+      "operator": "editor"
+    },
+    {
+      "id": "E0070",
+      "novel_id": "N013",
+      "state": "contract_active",
+      "occurred_at": "2026-02-18T09:00:00+08:00",
+      "operator": "copyright_ops"
+    },
+    {
+      "id": "E0071",
+      "novel_id": "N013",
+      "state": "published",
+      "occurred_at": "2026-02-23T09:00:00+08:00",
+      "operator": "content_ops"
+    },
+    {
+      "id": "E0072",
+      "novel_id": "N014",
+      "state": "submitted",
+      "occurred_at": "2026-02-16T09:00:00+08:00",
+      "operator": "author"
+    },
+    {
+      "id": "E0073",
+      "novel_id": "N014",
+      "state": "ai_review_passed",
+      "occurred_at": "2026-02-16T09:19:00+08:00",
+      "operator": "ai_review"
+    },
+    {
+      "id": "E0074",
+      "novel_id": "N014",
+      "state": "editor_review_passed",
+      "occurred_at": "2026-02-18T09:00:00+08:00",
+      "operator": "editor"
+    },
+    {
+      "id": "E0075",
+      "novel_id": "N014",
+      "state": "contract_active",
+      "occurred_at": "2026-02-21T09:00:00+08:00",
+      "operator": "copyright_ops"
+    },
+    {
+      "id": "E0076",
+      "novel_id": "N014",
+      "state": "published",
+      "occurred_at": "2026-02-26T09:00:00+08:00",
+      "operator": "content_ops"
+    },
+    {
+      "id": "E0077",
+      "novel_id": "N015",
+      "state": "submitted",
+      "occurred_at": "2026-02-19T09:00:00+08:00",
+      "operator": "author"
+    },
+    {
+      "id": "E0078",
+      "novel_id": "N015",
+      "state": "ai_review_passed",
+      "occurred_at": "2026-02-19T09:20:00+08:00",
+      "operator": "ai_review"
+    },
+    {
+      "id": "E0079",
+      "novel_id": "N015",
+      "state": "editor_review_passed",
+      "occurred_at": "2026-02-21T09:00:00+08:00",
+      "operator": "editor"
+    },
+    {
+      "id": "E0080",
+      "novel_id": "N015",
+      "state": "contract_active",
+      "occurred_at": "2026-02-24T09:00:00+08:00",
+      "operator": "copyright_ops"
+    },
+    {
+      "id": "E0081",
+      "novel_id": "N015",
+      "state": "published",
+      "occurred_at": "2026-03-01T09:00:00+08:00",
+      "operator": "content_ops"
+    },
+    {
+      "id": "E0082",
+      "novel_id": "N015",
+      "state": "settled",
+      "occurred_at": "2026-10-10T10:00:00+08:00",
+      "operator": "settlement_system"
+    },
+    {
+      "id": "E0083",
+      "novel_id": "N016",
+      "state": "submitted",
+      "occurred_at": "2026-02-22T09:00:00+08:00",
+      "operator": "author"
+    },
+    {
+      "id": "E0084",
+      "novel_id": "N016",
+      "state": "ai_review_passed",
+      "occurred_at": "2026-02-22T09:21:00+08:00",
+      "operator": "ai_review"
+    },
+    {
+      "id": "E0085",
+      "novel_id": "N016",
+      "state": "editor_review_passed",
+      "occurred_at": "2026-02-24T09:00:00+08:00",
+      "operator": "editor"
+    },
+    {
+      "id": "E0086",
+      "novel_id": "N016",
+      "state": "contract_active",
+      "occurred_at": "2026-02-27T09:00:00+08:00",
+      "operator": "copyright_ops"
+    },
+    {
+      "id": "E0087",
+      "novel_id": "N016",
+      "state": "published",
+      "occurred_at": "2026-03-04T09:00:00+08:00",
+      "operator": "content_ops"
+    },
+    {
+      "id": "E0088",
+      "novel_id": "N016",
+      "state": "settled",
+      "occurred_at": "2026-10-10T10:00:00+08:00",
+      "operator": "settlement_system"
+    },
+    {
+      "id": "E0089",
+      "novel_id": "N017",
+      "state": "submitted",
+      "occurred_at": "2026-02-25T09:00:00+08:00",
+      "operator": "author"
+    },
+    {
+      "id": "E0090",
+      "novel_id": "N017",
+      "state": "ai_review_passed",
+      "occurred_at": "2026-02-25T09:22:00+08:00",
+      "operator": "ai_review"
+    },
+    {
+      "id": "E0091",
+      "novel_id": "N017",
+      "state": "editor_review_passed",
+      "occurred_at": "2026-02-27T09:00:00+08:00",
+      "operator": "editor"
+    },
+    {
+      "id": "E0092",
+      "novel_id": "N017",
+      "state": "contract_active",
+      "occurred_at": "2026-03-02T09:00:00+08:00",
+      "operator": "copyright_ops"
+    },
+    {
+      "id": "E0093",
+      "novel_id": "N017",
+      "state": "published",
+      "occurred_at": "2026-03-07T09:00:00+08:00",
+      "operator": "content_ops"
+    },
+    {
+      "id": "E0094",
+      "novel_id": "N017",
+      "state": "settled",
+      "occurred_at": "2026-10-10T10:00:00+08:00",
+      "operator": "settlement_system"
+    },
+    {
+      "id": "E0095",
+      "novel_id": "N018",
+      "state": "submitted",
+      "occurred_at": "2026-02-28T09:00:00+08:00",
+      "operator": "author"
+    },
+    {
+      "id": "E0096",
+      "novel_id": "N018",
+      "state": "ai_review_passed",
+      "occurred_at": "2026-02-28T09:23:00+08:00",
+      "operator": "ai_review"
+    },
+    {
+      "id": "E0097",
+      "novel_id": "N018",
+      "state": "editor_review_passed",
+      "occurred_at": "2026-03-02T09:00:00+08:00",
+      "operator": "editor"
+    },
+    {
+      "id": "E0098",
+      "novel_id": "N018",
+      "state": "contract_active",
+      "occurred_at": "2026-03-05T09:00:00+08:00",
+      "operator": "copyright_ops"
+    },
+    {
+      "id": "E0099",
+      "novel_id": "N018",
+      "state": "published",
+      "occurred_at": "2026-03-10T09:00:00+08:00",
+      "operator": "content_ops"
+    },
+    {
+      "id": "E0100",
+      "novel_id": "N018",
+      "state": "settled",
+      "occurred_at": "2026-10-10T10:00:00+08:00",
+      "operator": "settlement_system"
+    },
+    {
+      "id": "E0101",
+      "novel_id": "N019",
+      "state": "submitted",
+      "occurred_at": "2026-03-03T09:00:00+08:00",
+      "operator": "author"
+    },
+    {
+      "id": "E0102",
+      "novel_id": "N019",
+      "state": "ai_review_passed",
+      "occurred_at": "2026-03-03T09:24:00+08:00",
+      "operator": "ai_review"
+    },
+    {
+      "id": "E0103",
+      "novel_id": "N019",
+      "state": "editor_review_passed",
+      "occurred_at": "2026-03-05T09:00:00+08:00",
+      "operator": "editor"
+    },
+    {
+      "id": "E0104",
+      "novel_id": "N019",
+      "state": "contract_active",
+      "occurred_at": "2026-03-08T09:00:00+08:00",
+      "operator": "copyright_ops"
+    },
+    {
+      "id": "E0105",
+      "novel_id": "N019",
+      "state": "published",
+      "occurred_at": "2026-03-13T09:00:00+08:00",
+      "operator": "content_ops"
+    },
+    {
+      "id": "E0106",
+      "novel_id": "N019",
+      "state": "settled",
+      "occurred_at": "2026-10-10T10:00:00+08:00",
+      "operator": "settlement_system"
+    },
+    {
+      "id": "E0107",
+      "novel_id": "N020",
+      "state": "submitted",
+      "occurred_at": "2026-03-06T09:00:00+08:00",
+      "operator": "author"
+    },
+    {
+      "id": "E0108",
+      "novel_id": "N020",
+      "state": "ai_review_passed",
+      "occurred_at": "2026-03-06T09:05:00+08:00",
+      "operator": "ai_review"
+    },
+    {
+      "id": "E0109",
+      "novel_id": "N020",
+      "state": "editor_review_passed",
+      "occurred_at": "2026-03-08T09:00:00+08:00",
+      "operator": "editor"
+    },
+    {
+      "id": "E0110",
+      "novel_id": "N020",
+      "state": "contract_active",
+      "occurred_at": "2026-03-11T09:00:00+08:00",
+      "operator": "copyright_ops"
+    },
+    {
+      "id": "E0111",
+      "novel_id": "N020",
+      "state": "published",
+      "occurred_at": "2026-03-16T09:00:00+08:00",
+      "operator": "content_ops"
+    },
+    {
+      "id": "E0112",
+      "novel_id": "N020",
+      "state": "settled",
+      "occurred_at": "2026-10-10T10:00:00+08:00",
+      "operator": "settlement_system"
+    },
+    {
+      "id": "E0113",
+      "novel_id": "N021",
+      "state": "submitted",
+      "occurred_at": "2026-03-09T09:00:00+08:00",
+      "operator": "author"
+    },
+    {
+      "id": "E0114",
+      "novel_id": "N021",
+      "state": "ai_review_passed",
+      "occurred_at": "2026-03-09T09:06:00+08:00",
+      "operator": "ai_review"
+    },
+    {
+      "id": "E0115",
+      "novel_id": "N021",
+      "state": "editor_review_passed",
+      "occurred_at": "2026-03-11T09:00:00+08:00",
+      "operator": "editor"
+    },
+    {
+      "id": "E0116",
+      "novel_id": "N021",
+      "state": "contract_active",
+      "occurred_at": "2026-03-14T09:00:00+08:00",
+      "operator": "copyright_ops"
+    },
+    {
+      "id": "E0117",
+      "novel_id": "N021",
+      "state": "published",
+      "occurred_at": "2026-03-19T09:00:00+08:00",
+      "operator": "content_ops"
+    },
+    {
+      "id": "E0118",
+      "novel_id": "N022",
+      "state": "submitted",
+      "occurred_at": "2026-03-12T09:00:00+08:00",
+      "operator": "author"
+    },
+    {
+      "id": "E0119",
+      "novel_id": "N022",
+      "state": "ai_review_passed",
+      "occurred_at": "2026-03-12T09:07:00+08:00",
+      "operator": "ai_review"
+    },
+    {
+      "id": "E0120",
+      "novel_id": "N022",
+      "state": "editor_review_passed",
+      "occurred_at": "2026-03-14T09:00:00+08:00",
+      "operator": "editor"
+    },
+    {
+      "id": "E0121",
+      "novel_id": "N022",
+      "state": "contract_active",
+      "occurred_at": "2026-03-17T09:00:00+08:00",
+      "operator": "copyright_ops"
+    },
+    {
+      "id": "E0122",
+      "novel_id": "N022",
+      "state": "published",
+      "occurred_at": "2026-03-22T09:00:00+08:00",
+      "operator": "content_ops"
+    },
+    {
+      "id": "E0123",
+      "novel_id": "N023",
+      "state": "submitted",
+      "occurred_at": "2026-03-15T09:00:00+08:00",
+      "operator": "author"
+    },
+    {
+      "id": "E0124",
+      "novel_id": "N023",
+      "state": "ai_review_passed",
+      "occurred_at": "2026-03-15T09:08:00+08:00",
+      "operator": "ai_review"
+    },
+    {
+      "id": "E0125",
+      "novel_id": "N023",
+      "state": "editor_review_passed",
+      "occurred_at": "2026-03-17T09:00:00+08:00",
+      "operator": "editor"
+    },
+    {
+      "id": "E0126",
+      "novel_id": "N023",
+      "state": "contract_active",
+      "occurred_at": "2026-03-20T09:00:00+08:00",
+      "operator": "copyright_ops"
+    },
+    {
+      "id": "E0127",
+      "novel_id": "N023",
+      "state": "published",
+      "occurred_at": "2026-03-25T09:00:00+08:00",
+      "operator": "content_ops"
+    },
+    {
+      "id": "E0128",
+      "novel_id": "N024",
+      "state": "submitted",
+      "occurred_at": "2026-03-18T09:00:00+08:00",
+      "operator": "author"
+    },
+    {
+      "id": "E0129",
+      "novel_id": "N024",
+      "state": "ai_review_passed",
+      "occurred_at": "2026-03-18T09:09:00+08:00",
+      "operator": "ai_review"
+    },
+    {
+      "id": "E0130",
+      "novel_id": "N024",
+      "state": "editor_review_passed",
+      "occurred_at": "2026-03-20T09:00:00+08:00",
+      "operator": "editor"
+    },
+    {
+      "id": "E0131",
+      "novel_id": "N024",
+      "state": "contract_active",
+      "occurred_at": "2026-03-23T09:00:00+08:00",
+      "operator": "copyright_ops"
+    },
+    {
+      "id": "E0132",
+      "novel_id": "N024",
+      "state": "published",
+      "occurred_at": "2026-03-28T09:00:00+08:00",
+      "operator": "content_ops"
+    },
+    {
+      "id": "E0133",
+      "novel_id": "N025",
+      "state": "submitted",
+      "occurred_at": "2026-03-21T09:00:00+08:00",
+      "operator": "author"
+    },
+    {
+      "id": "E0134",
+      "novel_id": "N025",
+      "state": "ai_review_passed",
+      "occurred_at": "2026-03-21T09:10:00+08:00",
+      "operator": "ai_review"
+    },
+    {
+      "id": "E0135",
+      "novel_id": "N025",
+      "state": "editor_review_passed",
+      "occurred_at": "2026-03-23T09:00:00+08:00",
+      "operator": "editor"
+    },
+    {
+      "id": "E0136",
+      "novel_id": "N025",
+      "state": "contract_active",
+      "occurred_at": "2026-03-26T09:00:00+08:00",
+      "operator": "copyright_ops"
+    },
+    {
+      "id": "E0137",
+      "novel_id": "N025",
+      "state": "published",
+      "occurred_at": "2026-03-31T09:00:00+08:00",
+      "operator": "content_ops"
+    },
+    {
+      "id": "E0138",
+      "novel_id": "N025",
+      "state": "settled",
+      "occurred_at": "2026-10-10T10:00:00+08:00",
+      "operator": "settlement_system"
+    },
+    {
+      "id": "E0139",
+      "novel_id": "N026",
+      "state": "submitted",
+      "occurred_at": "2026-03-24T09:00:00+08:00",
+      "operator": "author"
+    },
+    {
+      "id": "E0140",
+      "novel_id": "N026",
+      "state": "ai_review_passed",
+      "occurred_at": "2026-03-24T09:11:00+08:00",
+      "operator": "ai_review"
+    },
+    {
+      "id": "E0141",
+      "novel_id": "N026",
+      "state": "editor_review_passed",
+      "occurred_at": "2026-03-26T09:00:00+08:00",
+      "operator": "editor"
+    },
+    {
+      "id": "E0142",
+      "novel_id": "N026",
+      "state": "contract_active",
+      "occurred_at": "2026-03-29T09:00:00+08:00",
+      "operator": "copyright_ops"
+    },
+    {
+      "id": "E0143",
+      "novel_id": "N026",
+      "state": "published",
+      "occurred_at": "2026-04-03T09:00:00+08:00",
+      "operator": "content_ops"
+    },
+    {
+      "id": "E0144",
+      "novel_id": "N026",
+      "state": "settled",
+      "occurred_at": "2026-10-10T10:00:00+08:00",
+      "operator": "settlement_system"
+    },
+    {
+      "id": "E0145",
+      "novel_id": "N027",
+      "state": "submitted",
+      "occurred_at": "2026-03-27T09:00:00+08:00",
+      "operator": "author"
+    },
+    {
+      "id": "E0146",
+      "novel_id": "N027",
+      "state": "ai_review_passed",
+      "occurred_at": "2026-03-27T09:12:00+08:00",
+      "operator": "ai_review"
+    },
+    {
+      "id": "E0147",
+      "novel_id": "N027",
+      "state": "editor_review_passed",
+      "occurred_at": "2026-03-29T09:00:00+08:00",
+      "operator": "editor"
+    },
+    {
+      "id": "E0148",
+      "novel_id": "N027",
+      "state": "contract_active",
+      "occurred_at": "2026-04-01T09:00:00+08:00",
+      "operator": "copyright_ops"
+    },
+    {
+      "id": "E0149",
+      "novel_id": "N027",
+      "state": "published",
+      "occurred_at": "2026-04-06T09:00:00+08:00",
+      "operator": "content_ops"
+    },
+    {
+      "id": "E0150",
+      "novel_id": "N027",
+      "state": "settled",
+      "occurred_at": "2026-10-10T10:00:00+08:00",
+      "operator": "settlement_system"
+    },
+    {
+      "id": "E0151",
+      "novel_id": "N028",
+      "state": "submitted",
+      "occurred_at": "2026-03-30T09:00:00+08:00",
+      "operator": "author"
+    },
+    {
+      "id": "E0152",
+      "novel_id": "N028",
+      "state": "ai_review_passed",
+      "occurred_at": "2026-03-30T09:13:00+08:00",
+      "operator": "ai_review"
+    },
+    {
+      "id": "E0153",
+      "novel_id": "N028",
+      "state": "editor_review_passed",
+      "occurred_at": "2026-04-01T09:00:00+08:00",
+      "operator": "editor"
+    },
+    {
+      "id": "E0154",
+      "novel_id": "N028",
+      "state": "contract_active",
+      "occurred_at": "2026-04-04T09:00:00+08:00",
+      "operator": "copyright_ops"
+    },
+    {
+      "id": "E0155",
+      "novel_id": "N028",
+      "state": "published",
+      "occurred_at": "2026-04-09T09:00:00+08:00",
+      "operator": "content_ops"
+    },
+    {
+      "id": "E0156",
+      "novel_id": "N028",
+      "state": "settled",
+      "occurred_at": "2026-10-10T10:00:00+08:00",
+      "operator": "settlement_system"
+    },
+    {
+      "id": "E0157",
+      "novel_id": "N029",
+      "state": "submitted",
+      "occurred_at": "2026-04-02T09:00:00+08:00",
+      "operator": "author"
+    },
+    {
+      "id": "E0158",
+      "novel_id": "N029",
+      "state": "ai_review_passed",
+      "occurred_at": "2026-04-02T09:14:00+08:00",
+      "operator": "ai_review"
+    },
+    {
+      "id": "E0159",
+      "novel_id": "N029",
+      "state": "editor_review_passed",
+      "occurred_at": "2026-04-04T09:00:00+08:00",
+      "operator": "editor"
+    },
+    {
+      "id": "E0160",
+      "novel_id": "N029",
+      "state": "contract_active",
+      "occurred_at": "2026-04-07T09:00:00+08:00",
+      "operator": "copyright_ops"
+    },
+    {
+      "id": "E0161",
+      "novel_id": "N029",
+      "state": "published",
+      "occurred_at": "2026-04-12T09:00:00+08:00",
+      "operator": "content_ops"
+    },
+    {
+      "id": "E0162",
+      "novel_id": "N029",
+      "state": "settled",
+      "occurred_at": "2026-10-10T10:00:00+08:00",
+      "operator": "settlement_system"
+    },
+    {
+      "id": "E0163",
+      "novel_id": "N030",
+      "state": "submitted",
+      "occurred_at": "2026-04-05T09:00:00+08:00",
+      "operator": "author"
+    },
+    {
+      "id": "E0164",
+      "novel_id": "N030",
+      "state": "ai_review_passed",
+      "occurred_at": "2026-04-05T09:15:00+08:00",
+      "operator": "ai_review"
+    },
+    {
+      "id": "E0165",
+      "novel_id": "N030",
+      "state": "editor_review_passed",
+      "occurred_at": "2026-04-07T09:00:00+08:00",
+      "operator": "editor"
+    },
+    {
+      "id": "E0166",
+      "novel_id": "N030",
+      "state": "contract_active",
+      "occurred_at": "2026-04-10T09:00:00+08:00",
+      "operator": "copyright_ops"
+    },
+    {
+      "id": "E0167",
+      "novel_id": "N030",
+      "state": "published",
+      "occurred_at": "2026-04-15T09:00:00+08:00",
+      "operator": "content_ops"
+    },
+    {
+      "id": "E0168",
+      "novel_id": "N030",
+      "state": "settled",
+      "occurred_at": "2026-10-10T10:00:00+08:00",
+      "operator": "settlement_system"
+    },
+    {
+      "id": "E0169",
+      "novel_id": "N031",
+      "state": "submitted",
+      "occurred_at": "2026-04-08T09:00:00+08:00",
+      "operator": "author"
+    },
+    {
+      "id": "E0170",
+      "novel_id": "N031",
+      "state": "ai_review_passed",
+      "occurred_at": "2026-04-08T09:16:00+08:00",
+      "operator": "ai_review"
+    },
+    {
+      "id": "E0171",
+      "novel_id": "N031",
+      "state": "editor_review_passed",
+      "occurred_at": "2026-04-10T09:00:00+08:00",
+      "operator": "editor"
+    },
+    {
+      "id": "E0172",
+      "novel_id": "N031",
+      "state": "contract_active",
+      "occurred_at": "2026-04-13T09:00:00+08:00",
+      "operator": "copyright_ops"
+    },
+    {
+      "id": "E0173",
+      "novel_id": "N031",
+      "state": "published",
+      "occurred_at": "2026-04-18T09:00:00+08:00",
+      "operator": "content_ops"
+    },
+    {
+      "id": "E0174",
+      "novel_id": "N032",
+      "state": "submitted",
+      "occurred_at": "2026-04-11T09:00:00+08:00",
+      "operator": "author"
+    },
+    {
+      "id": "E0175",
+      "novel_id": "N032",
+      "state": "ai_review_passed",
+      "occurred_at": "2026-04-11T09:17:00+08:00",
+      "operator": "ai_review"
+    },
+    {
+      "id": "E0176",
+      "novel_id": "N032",
+      "state": "editor_review_passed",
+      "occurred_at": "2026-04-13T09:00:00+08:00",
+      "operator": "editor"
+    },
+    {
+      "id": "E0177",
+      "novel_id": "N032",
+      "state": "contract_active",
+      "occurred_at": "2026-04-16T09:00:00+08:00",
+      "operator": "copyright_ops"
+    },
+    {
+      "id": "E0178",
+      "novel_id": "N032",
+      "state": "published",
+      "occurred_at": "2026-04-21T09:00:00+08:00",
+      "operator": "content_ops"
+    },
+    {
+      "id": "E0179",
+      "novel_id": "N033",
+      "state": "submitted",
+      "occurred_at": "2026-04-14T09:00:00+08:00",
+      "operator": "author"
+    },
+    {
+      "id": "E0180",
+      "novel_id": "N033",
+      "state": "ai_review_passed",
+      "occurred_at": "2026-04-14T09:18:00+08:00",
+      "operator": "ai_review"
+    },
+    {
+      "id": "E0181",
+      "novel_id": "N033",
+      "state": "editor_review_passed",
+      "occurred_at": "2026-04-16T09:00:00+08:00",
+      "operator": "editor"
+    },
+    {
+      "id": "E0182",
+      "novel_id": "N033",
+      "state": "contract_active",
+      "occurred_at": "2026-04-19T09:00:00+08:00",
+      "operator": "copyright_ops"
+    },
+    {
+      "id": "E0183",
+      "novel_id": "N033",
+      "state": "published",
+      "occurred_at": "2026-04-24T09:00:00+08:00",
+      "operator": "content_ops"
+    },
+    {
+      "id": "E0184",
+      "novel_id": "N034",
+      "state": "submitted",
+      "occurred_at": "2026-04-17T09:00:00+08:00",
+      "operator": "author"
+    },
+    {
+      "id": "E0185",
+      "novel_id": "N034",
+      "state": "ai_review_passed",
+      "occurred_at": "2026-04-17T09:19:00+08:00",
+      "operator": "ai_review"
+    },
+    {
+      "id": "E0186",
+      "novel_id": "N034",
+      "state": "editor_review_passed",
+      "occurred_at": "2026-04-19T09:00:00+08:00",
+      "operator": "editor"
+    },
+    {
+      "id": "E0187",
+      "novel_id": "N034",
+      "state": "contract_active",
+      "occurred_at": "2026-04-22T09:00:00+08:00",
+      "operator": "copyright_ops"
+    },
+    {
+      "id": "E0188",
+      "novel_id": "N034",
+      "state": "published",
+      "occurred_at": "2026-04-27T09:00:00+08:00",
+      "operator": "content_ops"
+    },
+    {
+      "id": "E0189",
+      "novel_id": "N035",
+      "state": "submitted",
+      "occurred_at": "2026-04-20T09:00:00+08:00",
+      "operator": "author"
+    },
+    {
+      "id": "E0190",
+      "novel_id": "N035",
+      "state": "ai_review_passed",
+      "occurred_at": "2026-04-20T09:20:00+08:00",
+      "operator": "ai_review"
+    },
+    {
+      "id": "E0191",
+      "novel_id": "N035",
+      "state": "editor_review_passed",
+      "occurred_at": "2026-04-22T09:00:00+08:00",
+      "operator": "editor"
+    },
+    {
+      "id": "E0192",
+      "novel_id": "N035",
+      "state": "contract_active",
+      "occurred_at": "2026-04-25T09:00:00+08:00",
+      "operator": "copyright_ops"
+    },
+    {
+      "id": "E0193",
+      "novel_id": "N035",
+      "state": "published",
+      "occurred_at": "2026-04-30T09:00:00+08:00",
+      "operator": "content_ops"
+    },
+    {
+      "id": "E0194",
+      "novel_id": "N035",
+      "state": "settled",
+      "occurred_at": "2026-10-10T10:00:00+08:00",
+      "operator": "settlement_system"
+    },
+    {
+      "id": "E0195",
+      "novel_id": "N036",
+      "state": "submitted",
+      "occurred_at": "2026-04-23T09:00:00+08:00",
+      "operator": "author"
+    },
+    {
+      "id": "E0196",
+      "novel_id": "N036",
+      "state": "ai_review_passed",
+      "occurred_at": "2026-04-23T09:21:00+08:00",
+      "operator": "ai_review"
+    },
+    {
+      "id": "E0197",
+      "novel_id": "N036",
+      "state": "editor_review_passed",
+      "occurred_at": "2026-04-25T09:00:00+08:00",
+      "operator": "editor"
+    },
+    {
+      "id": "E0198",
+      "novel_id": "N036",
+      "state": "contract_active",
+      "occurred_at": "2026-04-28T09:00:00+08:00",
+      "operator": "copyright_ops"
+    },
+    {
+      "id": "E0199",
+      "novel_id": "N036",
+      "state": "published",
+      "occurred_at": "2026-05-03T09:00:00+08:00",
+      "operator": "content_ops"
+    },
+    {
+      "id": "E0200",
+      "novel_id": "N036",
+      "state": "settled",
+      "occurred_at": "2026-10-10T10:00:00+08:00",
+      "operator": "settlement_system"
+    },
+    {
+      "id": "E0201",
+      "novel_id": "N037",
+      "state": "submitted",
+      "occurred_at": "2026-04-26T09:00:00+08:00",
+      "operator": "author"
+    },
+    {
+      "id": "E0202",
+      "novel_id": "N037",
+      "state": "ai_review_passed",
+      "occurred_at": "2026-04-26T09:22:00+08:00",
+      "operator": "ai_review"
+    },
+    {
+      "id": "E0203",
+      "novel_id": "N037",
+      "state": "editor_review_passed",
+      "occurred_at": "2026-04-28T09:00:00+08:00",
+      "operator": "editor"
+    },
+    {
+      "id": "E0204",
+      "novel_id": "N037",
+      "state": "contract_active",
+      "occurred_at": "2026-05-01T09:00:00+08:00",
+      "operator": "copyright_ops"
+    },
+    {
+      "id": "E0205",
+      "novel_id": "N037",
+      "state": "published",
+      "occurred_at": "2026-05-06T09:00:00+08:00",
+      "operator": "content_ops"
+    },
+    {
+      "id": "E0206",
+      "novel_id": "N038",
+      "state": "submitted",
+      "occurred_at": "2026-04-29T09:00:00+08:00",
+      "operator": "author"
+    },
+    {
+      "id": "E0207",
+      "novel_id": "N038",
+      "state": "ai_review_passed",
+      "occurred_at": "2026-04-29T09:23:00+08:00",
+      "operator": "ai_review"
+    },
+    {
+      "id": "E0208",
+      "novel_id": "N038",
+      "state": "editor_review_passed",
+      "occurred_at": "2026-05-01T09:00:00+08:00",
+      "operator": "editor"
+    },
+    {
+      "id": "E0209",
+      "novel_id": "N038",
+      "state": "contract_active",
+      "occurred_at": "2026-05-04T09:00:00+08:00",
+      "operator": "copyright_ops"
+    },
+    {
+      "id": "E0210",
+      "novel_id": "N038",
+      "state": "published",
+      "occurred_at": "2026-05-09T09:00:00+08:00",
+      "operator": "content_ops"
+    },
+    {
+      "id": "E0211",
+      "novel_id": "N039",
+      "state": "submitted",
+      "occurred_at": "2026-05-02T09:00:00+08:00",
+      "operator": "author"
+    },
+    {
+      "id": "E0212",
+      "novel_id": "N039",
+      "state": "ai_review_passed",
+      "occurred_at": "2026-05-02T09:24:00+08:00",
+      "operator": "ai_review"
+    },
+    {
+      "id": "E0213",
+      "novel_id": "N039",
+      "state": "editor_review_passed",
+      "occurred_at": "2026-05-04T09:00:00+08:00",
+      "operator": "editor"
+    },
+    {
+      "id": "E0214",
+      "novel_id": "N039",
+      "state": "contract_active",
+      "occurred_at": "2026-05-07T09:00:00+08:00",
+      "operator": "copyright_ops"
+    },
+    {
+      "id": "E0215",
+      "novel_id": "N039",
+      "state": "published",
+      "occurred_at": "2026-05-12T09:00:00+08:00",
+      "operator": "content_ops"
+    },
+    {
+      "id": "E0216",
+      "novel_id": "N040",
+      "state": "submitted",
+      "occurred_at": "2026-05-05T09:00:00+08:00",
+      "operator": "author"
+    },
+    {
+      "id": "E0217",
+      "novel_id": "N040",
+      "state": "ai_review_passed",
+      "occurred_at": "2026-05-05T09:05:00+08:00",
+      "operator": "ai_review"
+    },
+    {
+      "id": "E0218",
+      "novel_id": "N040",
+      "state": "editor_review_passed",
+      "occurred_at": "2026-05-07T09:00:00+08:00",
+      "operator": "editor"
+    },
+    {
+      "id": "E0219",
+      "novel_id": "N040",
+      "state": "contract_active",
+      "occurred_at": "2026-05-10T09:00:00+08:00",
+      "operator": "copyright_ops"
+    },
+    {
+      "id": "E0220",
+      "novel_id": "N040",
+      "state": "published",
+      "occurred_at": "2026-05-15T09:00:00+08:00",
+      "operator": "content_ops"
+    },
+    {
+      "id": "E0221",
+      "novel_id": "N041",
+      "state": "submitted",
+      "occurred_at": "2026-05-08T09:00:00+08:00",
+      "operator": "author"
+    },
+    {
+      "id": "E0222",
+      "novel_id": "N041",
+      "state": "ai_review_passed",
+      "occurred_at": "2026-05-08T09:06:00+08:00",
+      "operator": "ai_review"
+    },
+    {
+      "id": "E0223",
+      "novel_id": "N041",
+      "state": "editor_review_passed",
+      "occurred_at": "2026-05-10T09:00:00+08:00",
+      "operator": "editor"
+    },
+    {
+      "id": "E0224",
+      "novel_id": "N041",
+      "state": "contract_active",
+      "occurred_at": "2026-05-13T09:00:00+08:00",
+      "operator": "copyright_ops"
+    },
+    {
+      "id": "E0225",
+      "novel_id": "N041",
+      "state": "published",
+      "occurred_at": "2026-05-18T09:00:00+08:00",
+      "operator": "content_ops"
+    },
+    {
+      "id": "E0226",
+      "novel_id": "N042",
+      "state": "submitted",
+      "occurred_at": "2026-05-11T09:00:00+08:00",
+      "operator": "author"
+    },
+    {
+      "id": "E0227",
+      "novel_id": "N042",
+      "state": "ai_review_passed",
+      "occurred_at": "2026-05-11T09:07:00+08:00",
+      "operator": "ai_review"
+    },
+    {
+      "id": "E0228",
+      "novel_id": "N042",
+      "state": "editor_review_passed",
+      "occurred_at": "2026-05-13T09:00:00+08:00",
+      "operator": "editor"
+    },
+    {
+      "id": "E0229",
+      "novel_id": "N042",
+      "state": "contract_active",
+      "occurred_at": "2026-05-16T09:00:00+08:00",
+      "operator": "copyright_ops"
+    },
+    {
+      "id": "E0230",
+      "novel_id": "N042",
+      "state": "published",
+      "occurred_at": "2026-05-21T09:00:00+08:00",
+      "operator": "content_ops"
+    },
+    {
+      "id": "E0231",
+      "novel_id": "N043",
+      "state": "submitted",
+      "occurred_at": "2026-05-14T09:00:00+08:00",
+      "operator": "author"
+    },
+    {
+      "id": "E0232",
+      "novel_id": "N043",
+      "state": "ai_review_passed",
+      "occurred_at": "2026-05-14T09:08:00+08:00",
+      "operator": "ai_review"
+    },
+    {
+      "id": "E0233",
+      "novel_id": "N044",
+      "state": "submitted",
+      "occurred_at": "2026-05-17T09:00:00+08:00",
+      "operator": "author"
+    },
+    {
+      "id": "E0234",
+      "novel_id": "N044",
+      "state": "ai_review_passed",
+      "occurred_at": "2026-05-17T09:09:00+08:00",
+      "operator": "ai_review"
+    },
+    {
+      "id": "E0235",
+      "novel_id": "N045",
+      "state": "submitted",
+      "occurred_at": "2026-05-20T09:00:00+08:00",
+      "operator": "author"
+    },
+    {
+      "id": "E0236",
+      "novel_id": "N045",
+      "state": "ai_review_passed",
+      "occurred_at": "2026-05-20T09:10:00+08:00",
+      "operator": "ai_review"
+    },
+    {
+      "id": "E0237",
+      "novel_id": "N046",
+      "state": "submitted",
+      "occurred_at": "2026-05-23T09:00:00+08:00",
+      "operator": "author"
+    },
+    {
+      "id": "E0238",
+      "novel_id": "N046",
+      "state": "ai_review_passed",
+      "occurred_at": "2026-05-23T09:11:00+08:00",
+      "operator": "ai_review"
+    },
+    {
+      "id": "E0239",
+      "novel_id": "N047",
+      "state": "submitted",
+      "occurred_at": "2026-05-26T09:00:00+08:00",
+      "operator": "author"
+    },
+    {
+      "id": "E0240",
+      "novel_id": "N047",
+      "state": "ai_review_passed",
+      "occurred_at": "2026-05-26T09:12:00+08:00",
+      "operator": "ai_review"
+    },
+    {
+      "id": "E0241",
+      "novel_id": "N048",
+      "state": "submitted",
+      "occurred_at": "2026-05-29T09:00:00+08:00",
+      "operator": "author"
+    },
+    {
+      "id": "E0242",
+      "novel_id": "N048",
+      "state": "ai_review_passed",
+      "occurred_at": "2026-05-29T09:13:00+08:00",
+      "operator": "ai_review"
+    },
+    {
+      "id": "E0243",
+      "novel_id": "N049",
+      "state": "submitted",
+      "occurred_at": "2026-06-01T09:00:00+08:00",
+      "operator": "author"
+    },
+    {
+      "id": "E0244",
+      "novel_id": "N049",
+      "state": "ai_review_rejected",
+      "occurred_at": "2026-06-01T09:18:00+08:00",
+      "operator": "ai_review"
+    },
+    {
+      "id": "E0245",
+      "novel_id": "N050",
+      "state": "submitted",
+      "occurred_at": "2026-06-04T09:00:00+08:00",
+      "operator": "author"
+    }
+  ],
+  "contracts": [
+    {
+      "id": "C001",
+      "novel_id": "N001",
+      "version": 1,
+      "status": "active",
+      "license_type": "exclusive",
+      "author_share": 0.5,
+      "settlement_cycle": "monthly",
+      "effective_from": "2026-01-13",
+      "effective_to": "",
+      "source_clause": "合同第6.2条：作者分成比例为50%。"
+    },
+    {
+      "id": "C002",
+      "novel_id": "N002",
+      "version": 1,
+      "status": "active",
+      "license_type": "exclusive",
+      "author_share": 0.6,
+      "settlement_cycle": "monthly",
+      "effective_from": "2026-01-16",
+      "effective_to": "",
+      "source_clause": "合同第6.2条：作者分成比例为60%。"
+    },
+    {
+      "id": "C003",
+      "novel_id": "N003",
+      "version": 1,
+      "status": "active",
+      "license_type": "non_exclusive",
+      "author_share": 0.65,
+      "settlement_cycle": "monthly",
+      "effective_from": "2026-01-19",
+      "effective_to": "",
+      "source_clause": "合同第6.2条：作者分成比例为65%。"
+    },
+    {
+      "id": "C004",
+      "novel_id": "N004",
+      "version": 1,
+      "status": "expired",
+      "license_type": "exclusive",
+      "author_share": 0.7,
+      "settlement_cycle": "monthly",
+      "effective_from": "2026-01-22",
+      "effective_to": "2026-08-31",
+      "source_clause": "合同第6.2条：作者分成比例为70%。"
+    },
+    {
+      "id": "C005",
+      "novel_id": "N005",
+      "version": 1,
+      "status": "active",
+      "license_type": "exclusive",
+      "author_share": 0.5,
+      "settlement_cycle": "monthly",
+      "effective_from": "2026-01-25",
+      "effective_to": "",
+      "source_clause": "合同第6.2条：作者分成比例为50%。"
+    },
+    {
+      "id": "C006",
+      "novel_id": "N006",
+      "version": 1,
+      "status": "active",
+      "license_type": "non_exclusive",
+      "author_share": 0.6,
+      "settlement_cycle": "monthly",
+      "effective_from": "2026-01-28",
+      "effective_to": "",
+      "source_clause": "合同第6.2条：作者分成比例为60%。"
+    },
+    {
+      "id": "C007",
+      "novel_id": "N007",
+      "version": 1,
+      "status": "active",
+      "license_type": "exclusive",
+      "author_share": 0.65,
+      "settlement_cycle": "monthly",
+      "effective_from": "2026-01-31",
+      "effective_to": "",
+      "source_clause": "合同第6.2条：作者分成比例为65%。"
+    },
+    {
+      "id": "C008",
+      "novel_id": "N008",
+      "version": 1,
+      "status": "active",
+      "license_type": "exclusive",
+      "author_share": 0.7,
+      "settlement_cycle": "monthly",
+      "effective_from": "2026-02-03",
+      "effective_to": "",
+      "source_clause": "合同第6.2条：作者分成比例为70%。"
+    },
+    {
+      "id": "C009",
+      "novel_id": "N009",
+      "version": 1,
+      "status": "active",
+      "license_type": "non_exclusive",
+      "author_share": 0.5,
+      "settlement_cycle": "monthly",
+      "effective_from": "2026-02-06",
+      "effective_to": "",
+      "source_clause": "合同第6.2条：作者分成比例为50%。"
+    },
+    {
+      "id": "C010",
+      "novel_id": "N010",
+      "version": 1,
+      "status": "active",
+      "license_type": "exclusive",
+      "author_share": 0.6,
+      "settlement_cycle": "monthly",
+      "effective_from": "2026-02-09",
+      "effective_to": "",
+      "source_clause": "合同第6.2条：作者分成比例为60%。"
+    },
+    {
+      "id": "C011",
+      "novel_id": "N011",
+      "version": 1,
+      "status": "active",
+      "license_type": "exclusive",
+      "author_share": 0.65,
+      "settlement_cycle": "monthly",
+      "effective_from": "2026-02-12",
+      "effective_to": "",
+      "source_clause": "合同第6.2条：作者分成比例为65%。"
+    },
+    {
+      "id": "C012",
+      "novel_id": "N012",
+      "version": 1,
+      "status": "active",
+      "license_type": "non_exclusive",
+      "author_share": 0.7,
+      "settlement_cycle": "monthly",
+      "effective_from": "2026-02-15",
+      "effective_to": "",
+      "source_clause": "合同第6.2条：作者分成比例为70%。"
+    },
+    {
+      "id": "C013",
+      "novel_id": "N013",
+      "version": 1,
+      "status": "active",
+      "license_type": "exclusive",
+      "author_share": 0.5,
+      "settlement_cycle": "monthly",
+      "effective_from": "2026-02-18",
+      "effective_to": "",
+      "source_clause": "合同第6.2条：作者分成比例为50%。"
+    },
+    {
+      "id": "C014",
+      "novel_id": "N014",
+      "version": 1,
+      "status": "expired",
+      "license_type": "exclusive",
+      "author_share": 0.6,
+      "settlement_cycle": "monthly",
+      "effective_from": "2026-02-21",
+      "effective_to": "2026-08-31",
+      "source_clause": "合同第6.2条：作者分成比例为60%。"
+    },
+    {
+      "id": "C015",
+      "novel_id": "N015",
+      "version": 1,
+      "status": "active",
+      "license_type": "non_exclusive",
+      "author_share": 0.65,
+      "settlement_cycle": "monthly",
+      "effective_from": "2026-02-24",
+      "effective_to": "",
+      "source_clause": "合同第6.2条：作者分成比例为65%。"
+    },
+    {
+      "id": "C016",
+      "novel_id": "N016",
+      "version": 1,
+      "status": "active",
+      "license_type": "exclusive",
+      "author_share": 0.7,
+      "settlement_cycle": "monthly",
+      "effective_from": "2026-02-27",
+      "effective_to": "",
+      "source_clause": "合同第6.2条：作者分成比例为70%。"
+    },
+    {
+      "id": "C017",
+      "novel_id": "N017",
+      "version": 1,
+      "status": "active",
+      "license_type": "exclusive",
+      "author_share": 0.5,
+      "settlement_cycle": "monthly",
+      "effective_from": "2026-03-02",
+      "effective_to": "",
+      "source_clause": "合同第6.2条：作者分成比例为50%。"
+    },
+    {
+      "id": "C018",
+      "novel_id": "N018",
+      "version": 1,
+      "status": "active",
+      "license_type": "non_exclusive",
+      "author_share": 0.6,
+      "settlement_cycle": "monthly",
+      "effective_from": "2026-03-05",
+      "effective_to": "",
+      "source_clause": "合同第6.2条：作者分成比例为60%。"
+    },
+    {
+      "id": "C019",
+      "novel_id": "N019",
+      "version": 1,
+      "status": "active",
+      "license_type": "exclusive",
+      "author_share": 0.65,
+      "settlement_cycle": "monthly",
+      "effective_from": "2026-03-08",
+      "effective_to": "",
+      "source_clause": "合同第6.2条：作者分成比例为65%。"
+    },
+    {
+      "id": "C020",
+      "novel_id": "N020",
+      "version": 1,
+      "status": "active",
+      "license_type": "exclusive",
+      "author_share": 0.7,
+      "settlement_cycle": "monthly",
+      "effective_from": "2026-03-11",
+      "effective_to": "",
+      "source_clause": "合同第6.2条：作者分成比例为70%。"
+    },
+    {
+      "id": "C021",
+      "novel_id": "N021",
+      "version": 1,
+      "status": "active",
+      "license_type": "non_exclusive",
+      "author_share": 0.5,
+      "settlement_cycle": "monthly",
+      "effective_from": "2026-03-14",
+      "effective_to": "",
+      "source_clause": "合同第6.2条：作者分成比例为50%。"
+    },
+    {
+      "id": "C022",
+      "novel_id": "N022",
+      "version": 1,
+      "status": "active",
+      "license_type": "exclusive",
+      "author_share": 0.6,
+      "settlement_cycle": "monthly",
+      "effective_from": "2026-03-17",
+      "effective_to": "",
+      "source_clause": "合同第6.2条：作者分成比例为60%。"
+    },
+    {
+      "id": "C023",
+      "novel_id": "N023",
+      "version": 1,
+      "status": "active",
+      "license_type": "exclusive",
+      "author_share": 0.65,
+      "settlement_cycle": "monthly",
+      "effective_from": "2026-03-20",
+      "effective_to": "",
+      "source_clause": "合同第6.2条：作者分成比例为65%。"
+    },
+    {
+      "id": "C024",
+      "novel_id": "N024",
+      "version": 1,
+      "status": "expired",
+      "license_type": "non_exclusive",
+      "author_share": 0.7,
+      "settlement_cycle": "monthly",
+      "effective_from": "2026-03-23",
+      "effective_to": "2026-08-31",
+      "source_clause": "合同第6.2条：作者分成比例为70%。"
+    },
+    {
+      "id": "C025",
+      "novel_id": "N025",
+      "version": 1,
+      "status": "active",
+      "license_type": "exclusive",
+      "author_share": 0.5,
+      "settlement_cycle": "monthly",
+      "effective_from": "2026-03-26",
+      "effective_to": "",
+      "source_clause": "合同第6.2条：作者分成比例为50%。"
+    },
+    {
+      "id": "C026",
+      "novel_id": "N026",
+      "version": 1,
+      "status": "active",
+      "license_type": "exclusive",
+      "author_share": 0.6,
+      "settlement_cycle": "monthly",
+      "effective_from": "2026-03-29",
+      "effective_to": "",
+      "source_clause": "合同第6.2条：作者分成比例为60%。"
+    },
+    {
+      "id": "C027",
+      "novel_id": "N027",
+      "version": 1,
+      "status": "active",
+      "license_type": "non_exclusive",
+      "author_share": 0.65,
+      "settlement_cycle": "monthly",
+      "effective_from": "2026-04-01",
+      "effective_to": "",
+      "source_clause": "合同第6.2条：作者分成比例为65%。"
+    },
+    {
+      "id": "C028",
+      "novel_id": "N028",
+      "version": 1,
+      "status": "active",
+      "license_type": "exclusive",
+      "author_share": 0.7,
+      "settlement_cycle": "monthly",
+      "effective_from": "2026-04-04",
+      "effective_to": "",
+      "source_clause": "合同第6.2条：作者分成比例为70%。"
+    },
+    {
+      "id": "C029",
+      "novel_id": "N029",
+      "version": 1,
+      "status": "active",
+      "license_type": "exclusive",
+      "author_share": 0.5,
+      "settlement_cycle": "monthly",
+      "effective_from": "2026-04-07",
+      "effective_to": "",
+      "source_clause": "合同第6.2条：作者分成比例为50%。"
+    },
+    {
+      "id": "C030",
+      "novel_id": "N030",
+      "version": 1,
+      "status": "active",
+      "license_type": "non_exclusive",
+      "author_share": 0.6,
+      "settlement_cycle": "monthly",
+      "effective_from": "2026-04-10",
+      "effective_to": "",
+      "source_clause": "合同第6.2条：作者分成比例为60%。"
+    },
+    {
+      "id": "C031",
+      "novel_id": "N031",
+      "version": 1,
+      "status": "active",
+      "license_type": "exclusive",
+      "author_share": 0.65,
+      "settlement_cycle": "monthly",
+      "effective_from": "2026-04-13",
+      "effective_to": "",
+      "source_clause": "合同第6.2条：作者分成比例为65%。"
+    },
+    {
+      "id": "C032",
+      "novel_id": "N032",
+      "version": 1,
+      "status": "active",
+      "license_type": "exclusive",
+      "author_share": 0.7,
+      "settlement_cycle": "monthly",
+      "effective_from": "2026-04-16",
+      "effective_to": "",
+      "source_clause": "合同第6.2条：作者分成比例为70%。"
+    },
+    {
+      "id": "C033",
+      "novel_id": "N033",
+      "version": 1,
+      "status": "active",
+      "license_type": "non_exclusive",
+      "author_share": 0.5,
+      "settlement_cycle": "monthly",
+      "effective_from": "2026-04-19",
+      "effective_to": "",
+      "source_clause": "合同第6.2条：作者分成比例为50%。"
+    },
+    {
+      "id": "C034",
+      "novel_id": "N034",
+      "version": 1,
+      "status": "expired",
+      "license_type": "exclusive",
+      "author_share": 0.6,
+      "settlement_cycle": "monthly",
+      "effective_from": "2026-04-22",
+      "effective_to": "2026-08-31",
+      "source_clause": "合同第6.2条：作者分成比例为60%。"
+    },
+    {
+      "id": "C035",
+      "novel_id": "N035",
+      "version": 1,
+      "status": "active",
+      "license_type": "exclusive",
+      "author_share": 0.65,
+      "settlement_cycle": "monthly",
+      "effective_from": "2026-04-25",
+      "effective_to": "",
+      "source_clause": "合同第6.2条：作者分成比例为65%。"
+    },
+    {
+      "id": "C036",
+      "novel_id": "N036",
+      "version": 1,
+      "status": "active",
+      "license_type": "non_exclusive",
+      "author_share": 0.7,
+      "settlement_cycle": "monthly",
+      "effective_from": "2026-04-28",
+      "effective_to": "",
+      "source_clause": "合同第6.2条：作者分成比例为70%。"
+    },
+    {
+      "id": "C037",
+      "novel_id": "N037",
+      "version": 1,
+      "status": "active",
+      "license_type": "exclusive",
+      "author_share": 0.5,
+      "settlement_cycle": "monthly",
+      "effective_from": "2026-05-01",
+      "effective_to": "",
+      "source_clause": "合同第6.2条：作者分成比例为50%。"
+    },
+    {
+      "id": "C038",
+      "novel_id": "N038",
+      "version": 1,
+      "status": "active",
+      "license_type": "exclusive",
+      "author_share": 0.6,
+      "settlement_cycle": "monthly",
+      "effective_from": "2026-05-04",
+      "effective_to": "",
+      "source_clause": "合同第6.2条：作者分成比例为60%。"
+    },
+    {
+      "id": "C039",
+      "novel_id": "N039",
+      "version": 1,
+      "status": "active",
+      "license_type": "non_exclusive",
+      "author_share": 0.65,
+      "settlement_cycle": "monthly",
+      "effective_from": "2026-05-07",
+      "effective_to": "",
+      "source_clause": "合同第6.2条：作者分成比例为65%。"
+    },
+    {
+      "id": "C040",
+      "novel_id": "N040",
+      "version": 1,
+      "status": "active",
+      "license_type": "exclusive",
+      "author_share": 0.7,
+      "settlement_cycle": "monthly",
+      "effective_from": "2026-05-10",
+      "effective_to": "",
+      "source_clause": "合同第6.2条：作者分成比例为70%。"
+    },
+    {
+      "id": "C041",
+      "novel_id": "N041",
+      "version": 1,
+      "status": "active",
+      "license_type": "exclusive",
+      "author_share": 0.5,
+      "settlement_cycle": "monthly",
+      "effective_from": "2026-05-13",
+      "effective_to": "",
+      "source_clause": "合同第6.2条：作者分成比例为50%。"
+    },
+    {
+      "id": "C042",
+      "novel_id": "N042",
+      "version": 1,
+      "status": "active",
+      "license_type": "non_exclusive",
+      "author_share": 0.6,
+      "settlement_cycle": "monthly",
+      "effective_from": "2026-05-16",
+      "effective_to": "",
+      "source_clause": "合同第6.2条：作者分成比例为60%。"
+    }
+  ],
+  "settlements": [
+    {
+      "id": "S001",
+      "novel_id": "N001",
+      "period": "2026-09",
+      "distributable_revenue": 3875,
+      "configured_author_share": 0.4,
+      "author_amount": 1550.0,
+      "status": "pending",
+      "created_at": "2026-10-05T10:00:00+08:00"
+    },
+    {
+      "id": "S002",
+      "novel_id": "N003",
+      "period": "2026-09",
+      "distributable_revenue": 5625,
+      "configured_author_share": 0.65,
+      "author_amount": 3656.25,
+      "status": "paid",
+      "created_at": "2026-10-05T10:00:00+08:00"
+    },
+    {
+      "id": "S003",
+      "novel_id": "N003",
+      "period": "2026-09",
+      "distributable_revenue": 5625,
+      "configured_author_share": 0.65,
+      "author_amount": 3656.25,
+      "status": "pending",
+      "created_at": "2026-10-05T10:00:00+08:00"
+    },
+    {
+      "id": "S004",
+      "novel_id": "N004",
+      "period": "2026-09",
+      "distributable_revenue": 6500,
+      "configured_author_share": 0.7,
+      "author_amount": 4550.0,
+      "status": "pending",
+      "created_at": "2026-10-05T10:00:00+08:00"
+    },
+    {
+      "id": "S005",
+      "novel_id": "N005",
+      "period": "2026-09",
+      "distributable_revenue": 7375,
+      "configured_author_share": 0.5,
+      "author_amount": 3687.5,
+      "status": "paid",
+      "created_at": "2026-10-05T10:00:00+08:00"
+    },
+    {
+      "id": "S006",
+      "novel_id": "N006",
+      "period": "2026-09",
+      "distributable_revenue": 8250,
+      "configured_author_share": 0.6,
+      "author_amount": 4950.0,
+      "status": "paid",
+      "created_at": "2026-10-05T10:00:00+08:00"
+    },
+    {
+      "id": "S007",
+      "novel_id": "N007",
+      "period": "2026-09",
+      "distributable_revenue": 9125,
+      "configured_author_share": 0.65,
+      "author_amount": 5931.25,
+      "status": "paid",
+      "created_at": "2026-10-05T10:00:00+08:00"
+    },
+    {
+      "id": "S008",
+      "novel_id": "N008",
+      "period": "2026-09",
+      "distributable_revenue": 10000,
+      "configured_author_share": 0.7,
+      "author_amount": 7000.0,
+      "status": "paid",
+      "created_at": "2026-10-05T10:00:00+08:00"
+    },
+    {
+      "id": "S009",
+      "novel_id": "N009",
+      "period": "2026-09",
+      "distributable_revenue": 10875,
+      "configured_author_share": 0.5,
+      "author_amount": 5437.5,
+      "status": "paid",
+      "created_at": "2026-10-05T10:00:00+08:00"
+    },
+    {
+      "id": "S010",
+      "novel_id": "N010",
+      "period": "2026-09",
+      "distributable_revenue": 11750,
+      "configured_author_share": 0.6,
+      "author_amount": 7050.0,
+      "status": "paid",
+      "created_at": "2026-10-05T10:00:00+08:00"
+    },
+    {
+      "id": "S011",
+      "novel_id": "N011",
+      "period": "2026-09",
+      "distributable_revenue": 12625,
+      "configured_author_share": 0.55,
+      "author_amount": 6943.75,
+      "status": "pending",
+      "created_at": "2026-10-05T10:00:00+08:00"
+    },
+    {
+      "id": "S012",
+      "novel_id": "N013",
+      "period": "2026-09",
+      "distributable_revenue": 14375,
+      "configured_author_share": 0.5,
+      "author_amount": 7187.5,
+      "status": "paid",
+      "created_at": "2026-10-05T10:00:00+08:00"
+    },
+    {
+      "id": "S013",
+      "novel_id": "N013",
+      "period": "2026-09",
+      "distributable_revenue": 14375,
+      "configured_author_share": 0.5,
+      "author_amount": 7187.5,
+      "status": "pending",
+      "created_at": "2026-10-05T10:00:00+08:00"
+    },
+    {
+      "id": "S014",
+      "novel_id": "N014",
+      "period": "2026-09",
+      "distributable_revenue": 15250,
+      "configured_author_share": 0.6,
+      "author_amount": 9150.0,
+      "status": "pending",
+      "created_at": "2026-10-05T10:00:00+08:00"
+    },
+    {
+      "id": "S015",
+      "novel_id": "N015",
+      "period": "2026-09",
+      "distributable_revenue": 16125,
+      "configured_author_share": 0.65,
+      "author_amount": 10481.25,
+      "status": "paid",
+      "created_at": "2026-10-05T10:00:00+08:00"
+    },
+    {
+      "id": "S016",
+      "novel_id": "N016",
+      "period": "2026-09",
+      "distributable_revenue": 17000,
+      "configured_author_share": 0.7,
+      "author_amount": 11900.0,
+      "status": "paid",
+      "created_at": "2026-10-05T10:00:00+08:00"
+    },
+    {
+      "id": "S017",
+      "novel_id": "N017",
+      "period": "2026-09",
+      "distributable_revenue": 17875,
+      "configured_author_share": 0.5,
+      "author_amount": 8937.5,
+      "status": "paid",
+      "created_at": "2026-10-05T10:00:00+08:00"
+    },
+    {
+      "id": "S018",
+      "novel_id": "N018",
+      "period": "2026-09",
+      "distributable_revenue": 18750,
+      "configured_author_share": 0.6,
+      "author_amount": 11250.0,
+      "status": "paid",
+      "created_at": "2026-10-05T10:00:00+08:00"
+    },
+    {
+      "id": "S019",
+      "novel_id": "N019",
+      "period": "2026-09",
+      "distributable_revenue": 19625,
+      "configured_author_share": 0.65,
+      "author_amount": 12756.25,
+      "status": "paid",
+      "created_at": "2026-10-05T10:00:00+08:00"
+    },
+    {
+      "id": "S020",
+      "novel_id": "N020",
+      "period": "2026-09",
+      "distributable_revenue": 20500,
+      "configured_author_share": 0.7,
+      "author_amount": 14350.0,
+      "status": "paid",
+      "created_at": "2026-10-05T10:00:00+08:00"
+    },
+    {
+      "id": "S021",
+      "novel_id": "N021",
+      "period": "2026-09",
+      "distributable_revenue": 21375,
+      "configured_author_share": 0.4,
+      "author_amount": 8550.0,
+      "status": "pending",
+      "created_at": "2026-10-05T10:00:00+08:00"
+    },
+    {
+      "id": "S022",
+      "novel_id": "N023",
+      "period": "2026-09",
+      "distributable_revenue": 23125,
+      "configured_author_share": 0.65,
+      "author_amount": 15031.25,
+      "status": "paid",
+      "created_at": "2026-10-05T10:00:00+08:00"
+    },
+    {
+      "id": "S023",
+      "novel_id": "N023",
+      "period": "2026-09",
+      "distributable_revenue": 23125,
+      "configured_author_share": 0.65,
+      "author_amount": 15031.25,
+      "status": "pending",
+      "created_at": "2026-10-05T10:00:00+08:00"
+    },
+    {
+      "id": "S024",
+      "novel_id": "N024",
+      "period": "2026-09",
+      "distributable_revenue": 24000,
+      "configured_author_share": 0.7,
+      "author_amount": 16800.0,
+      "status": "pending",
+      "created_at": "2026-10-05T10:00:00+08:00"
+    },
+    {
+      "id": "S025",
+      "novel_id": "N025",
+      "period": "2026-09",
+      "distributable_revenue": 24875,
+      "configured_author_share": 0.5,
+      "author_amount": 12437.5,
+      "status": "paid",
+      "created_at": "2026-10-05T10:00:00+08:00"
+    },
+    {
+      "id": "S026",
+      "novel_id": "N026",
+      "period": "2026-09",
+      "distributable_revenue": 25750,
+      "configured_author_share": 0.6,
+      "author_amount": 15450.0,
+      "status": "paid",
+      "created_at": "2026-10-05T10:00:00+08:00"
+    },
+    {
+      "id": "S027",
+      "novel_id": "N027",
+      "period": "2026-09",
+      "distributable_revenue": 26625,
+      "configured_author_share": 0.65,
+      "author_amount": 17306.25,
+      "status": "paid",
+      "created_at": "2026-10-05T10:00:00+08:00"
+    },
+    {
+      "id": "S028",
+      "novel_id": "N028",
+      "period": "2026-09",
+      "distributable_revenue": 27500,
+      "configured_author_share": 0.7,
+      "author_amount": 19250.0,
+      "status": "paid",
+      "created_at": "2026-10-05T10:00:00+08:00"
+    },
+    {
+      "id": "S029",
+      "novel_id": "N029",
+      "period": "2026-09",
+      "distributable_revenue": 28375,
+      "configured_author_share": 0.5,
+      "author_amount": 14187.5,
+      "status": "paid",
+      "created_at": "2026-10-05T10:00:00+08:00"
+    },
+    {
+      "id": "S030",
+      "novel_id": "N030",
+      "period": "2026-09",
+      "distributable_revenue": 29250,
+      "configured_author_share": 0.6,
+      "author_amount": 17550.0,
+      "status": "paid",
+      "created_at": "2026-10-05T10:00:00+08:00"
+    },
+    {
+      "id": "S031",
+      "novel_id": "N031",
+      "period": "2026-09",
+      "distributable_revenue": 30125,
+      "configured_author_share": 0.55,
+      "author_amount": 16568.75,
+      "status": "pending",
+      "created_at": "2026-10-05T10:00:00+08:00"
+    },
+    {
+      "id": "S032",
+      "novel_id": "N033",
+      "period": "2026-09",
+      "distributable_revenue": 31875,
+      "configured_author_share": 0.5,
+      "author_amount": 15937.5,
+      "status": "paid",
+      "created_at": "2026-10-05T10:00:00+08:00"
+    },
+    {
+      "id": "S033",
+      "novel_id": "N033",
+      "period": "2026-09",
+      "distributable_revenue": 31875,
+      "configured_author_share": 0.5,
+      "author_amount": 15937.5,
+      "status": "pending",
+      "created_at": "2026-10-05T10:00:00+08:00"
+    },
+    {
+      "id": "S034",
+      "novel_id": "N034",
+      "period": "2026-09",
+      "distributable_revenue": 32750,
+      "configured_author_share": 0.6,
+      "author_amount": 19650.0,
+      "status": "pending",
+      "created_at": "2026-10-05T10:00:00+08:00"
+    },
+    {
+      "id": "S035",
+      "novel_id": "N035",
+      "period": "2026-09",
+      "distributable_revenue": 33625,
+      "configured_author_share": 0.65,
+      "author_amount": 21856.25,
+      "status": "paid",
+      "created_at": "2026-10-05T10:00:00+08:00"
+    },
+    {
+      "id": "S036",
+      "novel_id": "N036",
+      "period": "2026-09",
+      "distributable_revenue": 34500,
+      "configured_author_share": 0.7,
+      "author_amount": 24150.0,
+      "status": "paid",
+      "created_at": "2026-10-05T10:00:00+08:00"
+    }
+  ],
+  "expected_anomalies": [
+    {
+      "id": "X001",
+      "novel_id": "N001",
+      "anomaly_type": "settlement_ratio_mismatch",
+      "risk_level": "high",
+      "expected_result": "合同分成50%，系统配置40%",
+      "expected_affected_amount": 387.5
+    },
+    {
+      "id": "X002",
+      "novel_id": "N002",
+      "anomaly_type": "missing_bill",
+      "risk_level": "high",
+      "expected_result": "满足结算门槛且已过出账日，但没有生成结算记录",
+      "expected_affected_amount": 2850.0
+    },
+    {
+      "id": "X003",
+      "novel_id": "N003",
+      "anomaly_type": "duplicate_settlement",
+      "risk_level": "high",
+      "expected_result": "同一作品同一结算周期存在两条结算记录",
+      "expected_affected_amount": 3656.25
+    },
+    {
+      "id": "X004",
+      "novel_id": "N004",
+      "anomaly_type": "expired_contract_settlement",
+      "risk_level": "high",
+      "expected_result": "结算周期晚于合同失效日期",
+      "expected_affected_amount": 4550.0
+    },
+    {
+      "id": "X005",
+      "novel_id": "N011",
+      "anomaly_type": "settlement_ratio_mismatch",
+      "risk_level": "high",
+      "expected_result": "合同分成65%，系统配置55%",
+      "expected_affected_amount": 1262.5
+    },
+    {
+      "id": "X006",
+      "novel_id": "N012",
+      "anomaly_type": "missing_bill",
+      "risk_level": "high",
+      "expected_result": "满足结算门槛且已过出账日，但没有生成结算记录",
+      "expected_affected_amount": 9450.0
+    },
+    {
+      "id": "X007",
+      "novel_id": "N013",
+      "anomaly_type": "duplicate_settlement",
+      "risk_level": "high",
+      "expected_result": "同一作品同一结算周期存在两条结算记录",
+      "expected_affected_amount": 7187.5
+    },
+    {
+      "id": "X008",
+      "novel_id": "N014",
+      "anomaly_type": "expired_contract_settlement",
+      "risk_level": "high",
+      "expected_result": "结算周期晚于合同失效日期",
+      "expected_affected_amount": 9150.0
+    },
+    {
+      "id": "X009",
+      "novel_id": "N021",
+      "anomaly_type": "settlement_ratio_mismatch",
+      "risk_level": "high",
+      "expected_result": "合同分成50%，系统配置40%",
+      "expected_affected_amount": 2137.5
+    },
+    {
+      "id": "X010",
+      "novel_id": "N022",
+      "anomaly_type": "missing_bill",
+      "risk_level": "high",
+      "expected_result": "满足结算门槛且已过出账日，但没有生成结算记录",
+      "expected_affected_amount": 13350.0
+    },
+    {
+      "id": "X011",
+      "novel_id": "N023",
+      "anomaly_type": "duplicate_settlement",
+      "risk_level": "high",
+      "expected_result": "同一作品同一结算周期存在两条结算记录",
+      "expected_affected_amount": 15031.25
+    },
+    {
+      "id": "X012",
+      "novel_id": "N024",
+      "anomaly_type": "expired_contract_settlement",
+      "risk_level": "high",
+      "expected_result": "结算周期晚于合同失效日期",
+      "expected_affected_amount": 16800.0
+    },
+    {
+      "id": "X013",
+      "novel_id": "N031",
+      "anomaly_type": "settlement_ratio_mismatch",
+      "risk_level": "high",
+      "expected_result": "合同分成65%，系统配置55%",
+      "expected_affected_amount": 3012.5
+    },
+    {
+      "id": "X014",
+      "novel_id": "N032",
+      "anomaly_type": "missing_bill",
+      "risk_level": "high",
+      "expected_result": "满足结算门槛且已过出账日，但没有生成结算记录",
+      "expected_affected_amount": 21700.0
+    },
+    {
+      "id": "X015",
+      "novel_id": "N033",
+      "anomaly_type": "duplicate_settlement",
+      "risk_level": "high",
+      "expected_result": "同一作品同一结算周期存在两条结算记录",
+      "expected_affected_amount": 15937.5
+    },
+    {
+      "id": "X016",
+      "novel_id": "N034",
+      "anomaly_type": "expired_contract_settlement",
+      "risk_level": "high",
+      "expected_result": "结算周期晚于合同失效日期",
+      "expected_affected_amount": 19650.0
+    },
+    {
+      "id": "X017",
+      "novel_id": "N043",
+      "anomaly_type": "editor_review_overdue",
+      "risk_level": "medium",
+      "expected_result": "AI预审通过后超过三个工作日仍未完成编辑复审",
+      "expected_affected_amount": 0
+    },
+    {
+      "id": "X018",
+      "novel_id": "N044",
+      "anomaly_type": "editor_review_overdue",
+      "risk_level": "medium",
+      "expected_result": "AI预审通过后超过三个工作日仍未完成编辑复审",
+      "expected_affected_amount": 0
+    },
+    {
+      "id": "X019",
+      "novel_id": "N045",
+      "anomaly_type": "editor_review_overdue",
+      "risk_level": "medium",
+      "expected_result": "AI预审通过后超过三个工作日仍未完成编辑复审",
+      "expected_affected_amount": 0
+    },
+    {
+      "id": "X020",
+      "novel_id": "N046",
+      "anomaly_type": "editor_review_overdue",
+      "risk_level": "medium",
+      "expected_result": "AI预审通过后超过三个工作日仍未完成编辑复审",
+      "expected_affected_amount": 0
+    }
+  ]
+}

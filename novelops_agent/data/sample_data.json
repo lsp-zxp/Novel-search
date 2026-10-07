@@ -1,0 +1,71 @@
+{
+  "novels": [
+    {
+      "id": "N001",
+      "title": "长夜回声",
+      "author": "林川",
+      "platform": "demo_platform",
+      "status": "contract_active",
+      "submitted_at": "2026-08-01T09:30:00+08:00",
+      "contract_id": "C001"
+    },
+    {
+      "id": "N002",
+      "title": "山海来信",
+      "author": "周遥",
+      "platform": "demo_platform",
+      "status": "settled",
+      "submitted_at": "2026-07-18T10:00:00+08:00",
+      "contract_id": "C002"
+    }
+  ],
+  "workflow_events": [
+    {"novel_id": "N001", "state": "submitted", "at": "2026-08-01T09:30:00+08:00"},
+    {"novel_id": "N001", "state": "ai_review_passed", "at": "2026-08-01T09:35:00+08:00"},
+    {"novel_id": "N001", "state": "editor_review_passed", "at": "2026-08-03T14:20:00+08:00"},
+    {"novel_id": "N001", "state": "contract_active", "at": "2026-08-08T11:00:00+08:00"},
+    {"novel_id": "N002", "state": "submitted", "at": "2026-07-18T10:00:00+08:00"},
+    {"novel_id": "N002", "state": "contract_active", "at": "2026-07-25T09:00:00+08:00"},
+    {"novel_id": "N002", "state": "settled", "at": "2026-09-10T10:00:00+08:00"}
+  ],
+  "contracts": [
+    {
+      "id": "C001",
+      "novel_id": "N001",
+      "status": "active",
+      "author_share": 0.70,
+      "settlement_cycle": "monthly",
+      "effective_at": "2026-08-08",
+      "source_clause": "合同第6.2条：可分配收入中，作者分成比例为70%。"
+    },
+    {
+      "id": "C002",
+      "novel_id": "N002",
+      "status": "active",
+      "author_share": 0.65,
+      "settlement_cycle": "monthly",
+      "effective_at": "2026-07-25",
+      "source_clause": "合同第6.2条：可分配收入中，作者分成比例为65%。"
+    }
+  ],
+  "settlements": [
+    {
+      "id": "S001",
+      "novel_id": "N001",
+      "period": "2026-09",
+      "distributable_revenue": 10000,
+      "configured_author_share": 0.60,
+      "author_amount": 6000,
+      "status": "pending"
+    },
+    {
+      "id": "S002",
+      "novel_id": "N002",
+      "period": "2026-09",
+      "distributable_revenue": 8000,
+      "configured_author_share": 0.65,
+      "author_amount": 5200,
+      "status": "paid"
+    }
+  ]
+}

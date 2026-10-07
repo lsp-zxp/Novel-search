@@ -1,0 +1,10 @@
+[project]
+name = "novelops-agent"
+version = "0.1.0"
+description = "小说业务异常调查与处理 Agent"
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
+
